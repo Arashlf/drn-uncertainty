@@ -1,0 +1,1475 @@
+source,target,weight
+Alachua County,Alachua County,116046.0
+Alachua County,Baker County,66.0
+Alachua County,Bay County,11.0
+Alachua County,Bradford County,639.0
+Alachua County,Brevard County,34.0
+Alachua County,Broward County,24.0
+Alachua County,Citrus County,154.0
+Alachua County,Clay County,129.0
+Alachua County,Columbia County,936.0
+Alachua County,Dixie County,160.0
+Alachua County,Duval County,577.0
+Alachua County,Escambia County,186.0
+Alachua County,Flagler County,31.0
+Alachua County,Gilchrist County,281.0
+Alachua County,Hamilton County,30.0
+Alachua County,Hernando County,12.0
+Alachua County,Hillsborough County,278.0
+Alachua County,Jackson County,14.0
+Alachua County,Lafayette County,21.0
+Alachua County,Lake County,14.0
+Alachua County,Leon County,55.0
+Alachua County,Levy County,340.0
+Alachua County,Manatee County,64.0
+Alachua County,Marion County,1959.0
+Alachua County,Martin County,34.0
+Alachua County,Miami-Dade County,74.0
+Alachua County,Orange County,282.0
+Alachua County,Palm Beach County,21.0
+Alachua County,Pasco County,49.0
+Alachua County,Pinellas County,42.0
+Alachua County,Polk County,77.0
+Alachua County,Putnam County,294.0
+Alachua County,Sarasota County,44.0
+Alachua County,Seminole County,117.0
+Alachua County,St. Johns County,281.0
+Alachua County,Sumter County,4.0
+Alachua County,Suwannee County,217.0
+Alachua County,Union County,257.0
+Alachua County,Volusia County,12.0
+Baker County,Alachua County,34.0
+Baker County,Baker County,5244.0
+Baker County,Bradford County,17.0
+Baker County,Clay County,177.0
+Baker County,Columbia County,511.0
+Baker County,Duval County,4079.0
+Baker County,Gilchrist County,18.0
+Baker County,Hamilton County,50.0
+Baker County,Marion County,46.0
+Baker County,Orange County,25.0
+Baker County,Suwannee County,31.0
+Baker County,Union County,308.0
+Bay County,Alachua County,23.0
+Bay County,Bay County,78410.0
+Bay County,Broward County,6.0
+Bay County,Calhoun County,26.0
+Bay County,Columbia County,5.0
+Bay County,Duval County,22.0
+Bay County,Escambia County,32.0
+Bay County,Franklin County,3.0
+Bay County,Gulf County,556.0
+Bay County,Hamilton County,9.0
+Bay County,Holmes County,56.0
+Bay County,Jackson County,325.0
+Bay County,Lake County,12.0
+Bay County,Leon County,239.0
+Bay County,Okaloosa County,383.0
+Bay County,Palm Beach County,2.0
+Bay County,Santa Rosa County,14.0
+Bay County,Sarasota County,8.0
+Bay County,Seminole County,7.0
+Bay County,Walton County,1973.0
+Bay County,Washington County,403.0
+Bradford County,Alachua County,1470.0
+Bradford County,Baker County,70.0
+Bradford County,Bradford County,5189.0
+Bradford County,Clay County,806.0
+Bradford County,Columbia County,124.0
+Bradford County,Duval County,1154.0
+Bradford County,Levy County,17.0
+Bradford County,Marion County,31.0
+Bradford County,Putnam County,257.0
+Bradford County,St. Johns County,82.0
+Bradford County,Suwannee County,63.0
+Bradford County,Union County,618.0
+Brevard County,Alachua County,17.0
+Brevard County,Bay County,17.0
+Brevard County,Brevard County,234601.0
+Brevard County,Broward County,408.0
+Brevard County,Charlotte County,64.0
+Brevard County,Clay County,3.0
+Brevard County,Collier County,51.0
+Brevard County,Columbia County,17.0
+Brevard County,Duval County,152.0
+Brevard County,Hendry County,93.0
+Brevard County,Highlands County,23.0
+Brevard County,Hillsborough County,241.0
+Brevard County,Indian River County,3930.0
+Brevard County,Lake County,150.0
+Brevard County,Lee County,61.0
+Brevard County,Leon County,56.0
+Brevard County,Levy County,9.0
+Brevard County,Marion County,35.0
+Brevard County,Martin County,67.0
+Brevard County,Miami-Dade County,363.0
+Brevard County,Okeechobee County,9.0
+Brevard County,Orange County,8860.0
+Brevard County,Osceola County,434.0
+Brevard County,Palm Beach County,316.0
+Brevard County,Pasco County,8.0
+Brevard County,Pinellas County,80.0
+Brevard County,Polk County,132.0
+Brevard County,Putnam County,15.0
+Brevard County,Santa Rosa County,9.0
+Brevard County,Seminole County,909.0
+Brevard County,St. Johns County,134.0
+Brevard County,St. Lucie County,1159.0
+Brevard County,Volusia County,1018.0
+Broward County,Alachua County,239.0
+Broward County,Bay County,13.0
+Broward County,Brevard County,111.0
+Broward County,Broward County,737891.0
+Broward County,Charlotte County,165.0
+Broward County,Collier County,357.0
+Broward County,Dixie County,17.0
+Broward County,Duval County,275.0
+Broward County,Escambia County,22.0
+Broward County,Glades County,4.0
+Broward County,Hendry County,205.0
+Broward County,Hernando County,9.0
+Broward County,Hillsborough County,307.0
+Broward County,Indian River County,126.0
+Broward County,Lake County,17.0
+Broward County,Lee County,195.0
+Broward County,Leon County,192.0
+Broward County,Levy County,29.0
+Broward County,Manatee County,83.0
+Broward County,Marion County,63.0
+Broward County,Martin County,272.0
+Broward County,Miami-Dade County,145313.0
+Broward County,Monroe County,308.0
+Broward County,Okeechobee County,108.0
+Broward County,Orange County,483.0
+Broward County,Palm Beach County,58636.0
+Broward County,Pasco County,75.0
+Broward County,Pinellas County,194.0
+Broward County,Polk County,168.0
+Broward County,Sarasota County,47.0
+Broward County,Seminole County,85.0
+Broward County,St. Johns County,89.0
+Broward County,St. Lucie County,310.0
+Broward County,Taylor County,43.0
+Broward County,Volusia County,65.0
+Calhoun County,Bay County,366.0
+Calhoun County,Calhoun County,2125.0
+Calhoun County,Clay County,40.0
+Calhoun County,Franklin County,16.0
+Calhoun County,Gadsden County,222.0
+Calhoun County,Gulf County,237.0
+Calhoun County,Jackson County,704.0
+Calhoun County,Leon County,195.0
+Calhoun County,Liberty County,519.0
+Calhoun County,Walton County,1.0
+Calhoun County,Washington County,113.0
+Charlotte County,Alachua County,31.0
+Charlotte County,Bay County,19.0
+Charlotte County,Broward County,29.0
+Charlotte County,Charlotte County,44047.0
+Charlotte County,Collier County,444.0
+Charlotte County,DeSoto County,1073.0
+Charlotte County,Hardee County,28.0
+Charlotte County,Highlands County,27.0
+Charlotte County,Hillsborough County,436.0
+Charlotte County,Jackson County,56.0
+Charlotte County,Lake County,5.0
+Charlotte County,Lee County,5977.0
+Charlotte County,Manatee County,705.0
+Charlotte County,Miami-Dade County,110.0
+Charlotte County,Orange County,88.0
+Charlotte County,Osceola County,19.0
+Charlotte County,Palm Beach County,13.0
+Charlotte County,Pasco County,13.0
+Charlotte County,Pinellas County,194.0
+Charlotte County,Polk County,111.0
+Charlotte County,Putnam County,119.0
+Charlotte County,Sarasota County,8313.0
+Charlotte County,Seminole County,6.0
+Charlotte County,St. Johns County,75.0
+Citrus County,Alachua County,21.0
+Citrus County,Broward County,7.0
+Citrus County,Charlotte County,9.0
+Citrus County,Citrus County,35101.0
+Citrus County,Columbia County,45.0
+Citrus County,Duval County,97.0
+Citrus County,Hernando County,1847.0
+Citrus County,Hillsborough County,671.0
+Citrus County,Lake County,377.0
+Citrus County,Lee County,28.0
+Citrus County,Levy County,389.0
+Citrus County,Marion County,4568.0
+Citrus County,Monroe County,5.0
+Citrus County,Orange County,409.0
+Citrus County,Osceola County,4.0
+Citrus County,Palm Beach County,10.0
+Citrus County,Pasco County,352.0
+Citrus County,Pinellas County,249.0
+Citrus County,Polk County,92.0
+Citrus County,Seminole County,12.0
+Citrus County,Sumter County,1248.0
+Citrus County,Volusia County,41.0
+Citrus County,Wakulla County,28.0
+Clay County,Alachua County,1522.0
+Clay County,Baker County,368.0
+Clay County,Bradford County,1196.0
+Clay County,Broward County,11.0
+Clay County,Clay County,44889.0
+Clay County,Columbia County,222.0
+Clay County,Duval County,46088.0
+Clay County,Flagler County,131.0
+Clay County,Franklin County,5.0
+Clay County,Hillsborough County,46.0
+Clay County,Jackson County,48.0
+Clay County,Lake County,72.0
+Clay County,Leon County,62.0
+Clay County,Marion County,146.0
+Clay County,Nassau County,239.0
+Clay County,Orange County,3.0
+Clay County,Palm Beach County,4.0
+Clay County,Pinellas County,1.0
+Clay County,Polk County,148.0
+Clay County,Putnam County,857.0
+Clay County,Sarasota County,45.0
+Clay County,Seminole County,67.0
+Clay County,St. Johns County,2083.0
+Clay County,Suwannee County,8.0
+Clay County,Union County,88.0
+Clay County,Volusia County,38.0
+Collier County,Alachua County,9.0
+Collier County,Broward County,211.0
+Collier County,Charlotte County,120.0
+Collier County,Citrus County,14.0
+Collier County,Collier County,139140.0
+Collier County,Duval County,46.0
+Collier County,Glades County,38.0
+Collier County,Hendry County,337.0
+Collier County,Highlands County,16.0
+Collier County,Hillsborough County,219.0
+Collier County,Lee County,10912.0
+Collier County,Miami-Dade County,689.0
+Collier County,Monroe County,45.0
+Collier County,Orange County,69.0
+Collier County,Osceola County,56.0
+Collier County,Palm Beach County,172.0
+Collier County,Pasco County,29.0
+Collier County,Pinellas County,14.0
+Collier County,Polk County,22.0
+Collier County,Sarasota County,34.0
+Columbia County,Alachua County,3640.0
+Columbia County,Baker County,360.0
+Columbia County,Bay County,32.0
+Columbia County,Bradford County,152.0
+Columbia County,Citrus County,26.0
+Columbia County,Columbia County,18419.0
+Columbia County,Duval County,764.0
+Columbia County,Gadsden County,8.0
+Columbia County,Gilchrist County,5.0
+Columbia County,Hamilton County,462.0
+Columbia County,Hillsborough County,12.0
+Columbia County,Leon County,50.0
+Columbia County,Levy County,9.0
+Columbia County,Madison County,26.0
+Columbia County,Marion County,90.0
+Columbia County,Miami-Dade County,21.0
+Columbia County,Nassau County,15.0
+Columbia County,Okeechobee County,14.0
+Columbia County,Orange County,24.0
+Columbia County,Palm Beach County,56.0
+Columbia County,Pinellas County,47.0
+Columbia County,Polk County,35.0
+Columbia County,Putnam County,21.0
+Columbia County,St. Johns County,82.0
+Columbia County,Sumter County,11.0
+Columbia County,Suwannee County,764.0
+Columbia County,Union County,330.0
+DeSoto County,Broward County,14.0
+DeSoto County,Charlotte County,1249.0
+DeSoto County,Collier County,14.0
+DeSoto County,DeSoto County,10225.0
+DeSoto County,Hardee County,107.0
+DeSoto County,Highlands County,44.0
+DeSoto County,Hillsborough County,8.0
+DeSoto County,Lee County,230.0
+DeSoto County,Manatee County,158.0
+DeSoto County,Martin County,29.0
+DeSoto County,Miami-Dade County,4.0
+DeSoto County,Okeechobee County,64.0
+DeSoto County,Orange County,15.0
+DeSoto County,Osceola County,43.0
+DeSoto County,Palm Beach County,5.0
+DeSoto County,Pinellas County,20.0
+DeSoto County,Sarasota County,726.0
+DeSoto County,Suwannee County,17.0
+Dixie County,Alachua County,467.0
+Dixie County,Columbia County,10.0
+Dixie County,Dixie County,3085.0
+Dixie County,Gilchrist County,439.0
+Dixie County,Hamilton County,7.0
+Dixie County,Hillsborough County,3.0
+Dixie County,Lafayette County,132.0
+Dixie County,Lake County,48.0
+Dixie County,Levy County,538.0
+Dixie County,Suwannee County,24.0
+Dixie County,Taylor County,62.0
+Dixie County,Union County,12.0
+Duval County,Alachua County,318.0
+Duval County,Baker County,1045.0
+Duval County,Bay County,39.0
+Duval County,Bradford County,138.0
+Duval County,Brevard County,149.0
+Duval County,Broward County,199.0
+Duval County,Clay County,8655.0
+Duval County,Columbia County,150.0
+Duval County,Duval County,431726.0
+Duval County,Escambia County,81.0
+Duval County,Flagler County,85.0
+Duval County,Gilchrist County,60.0
+Duval County,Hillsborough County,179.0
+Duval County,Jefferson County,15.0
+Duval County,Lake County,26.0
+Duval County,Leon County,374.0
+Duval County,Manatee County,10.0
+Duval County,Marion County,111.0
+Duval County,Miami-Dade County,112.0
+Duval County,Monroe County,32.0
+Duval County,Nassau County,2415.0
+Duval County,Okaloosa County,54.0
+Duval County,Orange County,393.0
+Duval County,Palm Beach County,52.0
+Duval County,Pasco County,5.0
+Duval County,Pinellas County,278.0
+Duval County,Polk County,12.0
+Duval County,Putnam County,262.0
+Duval County,Sarasota County,94.0
+Duval County,Seminole County,22.0
+Duval County,St. Johns County,12471.0
+Duval County,Sumter County,35.0
+Duval County,Union County,237.0
+Duval County,Volusia County,195.0
+Duval County,Walton County,42.0
+Escambia County,Alachua County,55.0
+Escambia County,Bay County,23.0
+Escambia County,Broward County,12.0
+Escambia County,Collier County,7.0
+Escambia County,Duval County,90.0
+Escambia County,Escambia County,128193.0
+Escambia County,Gadsden County,27.0
+Escambia County,Jackson County,29.0
+Escambia County,Miami-Dade County,18.0
+Escambia County,Okaloosa County,747.0
+Escambia County,Orange County,15.0
+Escambia County,Osceola County,10.0
+Escambia County,Palm Beach County,18.0
+Escambia County,Pinellas County,31.0
+Escambia County,Santa Rosa County,6412.0
+Escambia County,Sarasota County,9.0
+Escambia County,St. Johns County,19.0
+Escambia County,St. Lucie County,12.0
+Escambia County,Walton County,166.0
+Flagler County,Alachua County,62.0
+Flagler County,Brevard County,57.0
+Flagler County,Broward County,9.0
+Flagler County,Clay County,132.0
+Flagler County,Duval County,1305.0
+Flagler County,Flagler County,26634.0
+Flagler County,Hillsborough County,172.0
+Flagler County,Marion County,198.0
+Flagler County,Martin County,13.0
+Flagler County,Miami-Dade County,55.0
+Flagler County,Monroe County,4.0
+Flagler County,Nassau County,21.0
+Flagler County,Orange County,194.0
+Flagler County,Osceola County,28.0
+Flagler County,Palm Beach County,36.0
+Flagler County,Polk County,4.0
+Flagler County,Putnam County,557.0
+Flagler County,Sarasota County,18.0
+Flagler County,Seminole County,66.0
+Flagler County,St. Johns County,4909.0
+Flagler County,Volusia County,9110.0
+Franklin County,Bay County,79.0
+Franklin County,Franklin County,3522.0
+Franklin County,Gulf County,172.0
+Franklin County,Jefferson County,10.0
+Franklin County,Leon County,104.0
+Franklin County,Marion County,10.0
+Franklin County,Okaloosa County,20.0
+Franklin County,Pinellas County,24.0
+Franklin County,Polk County,12.0
+Franklin County,Wakulla County,56.0
+Gadsden County,Bay County,93.0
+Gadsden County,Calhoun County,42.0
+Gadsden County,Collier County,2.0
+Gadsden County,Gadsden County,7568.0
+Gadsden County,Hillsborough County,21.0
+Gadsden County,Jackson County,289.0
+Gadsden County,Jefferson County,81.0
+Gadsden County,Leon County,8311.0
+Gadsden County,Liberty County,151.0
+Gadsden County,Madison County,69.0
+Gadsden County,Marion County,33.0
+Gadsden County,Orange County,21.0
+Gadsden County,Wakulla County,44.0
+Gilchrist County,Alachua County,3012.0
+Gilchrist County,Bradford County,12.0
+Gilchrist County,Brevard County,13.0
+Gilchrist County,Broward County,22.0
+Gilchrist County,Columbia County,289.0
+Gilchrist County,Dixie County,95.0
+Gilchrist County,Gilchrist County,2467.0
+Gilchrist County,Hamilton County,12.0
+Gilchrist County,Hillsborough County,13.0
+Gilchrist County,Lake County,7.0
+Gilchrist County,Levy County,836.0
+Gilchrist County,Madison County,5.0
+Gilchrist County,Marion County,14.0
+Gilchrist County,Orange County,26.0
+Gilchrist County,Pasco County,6.0
+Gilchrist County,Pinellas County,23.0
+Gilchrist County,St. Johns County,6.0
+Gilchrist County,Suwannee County,149.0
+Gilchrist County,Taylor County,39.0
+Gilchrist County,Union County,3.0
+Glades County,Bay County,24.0
+Glades County,Brevard County,7.0
+Glades County,Broward County,27.0
+Glades County,Collier County,100.0
+Glades County,Glades County,1097.0
+Glades County,Hendry County,1032.0
+Glades County,Highlands County,15.0
+Glades County,Lee County,600.0
+Glades County,Martin County,18.0
+Glades County,Miami-Dade County,115.0
+Glades County,Okeechobee County,436.0
+Glades County,Palm Beach County,17.0
+Glades County,Pinellas County,12.0
+Gulf County,Bay County,1303.0
+Gulf County,Broward County,2.0
+Gulf County,Calhoun County,13.0
+Gulf County,Franklin County,58.0
+Gulf County,Gulf County,3853.0
+Gulf County,Leon County,142.0
+Gulf County,Walton County,27.0
+Gulf County,Washington County,24.0
+Hamilton County,Alachua County,16.0
+Hamilton County,Baker County,25.0
+Hamilton County,Brevard County,4.0
+Hamilton County,Columbia County,682.0
+Hamilton County,Gilchrist County,2.0
+Hamilton County,Hamilton County,2018.0
+Hamilton County,Hillsborough County,6.0
+Hamilton County,Jefferson County,56.0
+Hamilton County,Lee County,11.0
+Hamilton County,Madison County,120.0
+Hamilton County,Palm Beach County,1.0
+Hamilton County,Pinellas County,3.0
+Hamilton County,Suwannee County,375.0
+Hamilton County,Taylor County,16.0
+Hardee County,Charlotte County,20.0
+Hardee County,Collier County,1.0
+Hardee County,DeSoto County,448.0
+Hardee County,Hardee County,6655.0
+Hardee County,Highlands County,363.0
+Hardee County,Hillsborough County,189.0
+Hardee County,Lake County,21.0
+Hardee County,Lee County,68.0
+Hardee County,Manatee County,365.0
+Hardee County,Martin County,39.0
+Hardee County,Okeechobee County,10.0
+Hardee County,Orange County,94.0
+Hardee County,Pinellas County,18.0
+Hardee County,Polk County,1019.0
+Hardee County,Sarasota County,45.0
+Hendry County,Broward County,74.0
+Hendry County,Charlotte County,77.0
+Hendry County,Collier County,611.0
+Hendry County,Glades County,537.0
+Hendry County,Hendry County,13042.0
+Hendry County,Highlands County,48.0
+Hendry County,Hillsborough County,70.0
+Hendry County,Lee County,2018.0
+Hendry County,Martin County,85.0
+Hendry County,Miami-Dade County,357.0
+Hendry County,Palm Beach County,1246.0
+Hendry County,Seminole County,88.0
+Hernando County,Alachua County,48.0
+Hernando County,Brevard County,45.0
+Hernando County,Broward County,59.0
+Hernando County,Citrus County,1747.0
+Hernando County,Duval County,30.0
+Hernando County,Hernando County,44720.0
+Hernando County,Hillsborough County,7649.0
+Hernando County,Indian River County,14.0
+Hernando County,Lake County,140.0
+Hernando County,Leon County,11.0
+Hernando County,Manatee County,38.0
+Hernando County,Marion County,276.0
+Hernando County,Miami-Dade County,155.0
+Hernando County,Orange County,264.0
+Hernando County,Osceola County,26.0
+Hernando County,Palm Beach County,37.0
+Hernando County,Pasco County,11379.0
+Hernando County,Pinellas County,2264.0
+Hernando County,Polk County,199.0
+Hernando County,Sarasota County,53.0
+Hernando County,Seminole County,8.0
+Hernando County,St. Lucie County,1.0
+Hernando County,Sumter County,1051.0
+Hernando County,Suwannee County,34.0
+Hernando County,Volusia County,89.0
+Hernando County,Wakulla County,4.0
+Highlands County,Broward County,275.0
+Highlands County,Charlotte County,12.0
+Highlands County,Collier County,36.0
+Highlands County,DeSoto County,337.0
+Highlands County,Glades County,132.0
+Highlands County,Hardee County,488.0
+Highlands County,Hendry County,101.0
+Highlands County,Highlands County,30255.0
+Highlands County,Hillsborough County,61.0
+Highlands County,Lee County,15.0
+Highlands County,Leon County,13.0
+Highlands County,Manatee County,27.0
+Highlands County,Miami-Dade County,107.0
+Highlands County,Okeechobee County,43.0
+Highlands County,Orange County,136.0
+Highlands County,Osceola County,33.0
+Highlands County,Palm Beach County,98.0
+Highlands County,Pinellas County,29.0
+Highlands County,Polk County,1223.0
+Highlands County,Sarasota County,17.0
+Highlands County,St. Lucie County,17.0
+Hillsborough County,Alachua County,123.0
+Hillsborough County,Bay County,113.0
+Hillsborough County,Bradford County,9.0
+Hillsborough County,Brevard County,117.0
+Hillsborough County,Broward County,201.0
+Hillsborough County,Charlotte County,9.0
+Hillsborough County,Citrus County,205.0
+Hillsborough County,Clay County,45.0
+Hillsborough County,Collier County,44.0
+Hillsborough County,DeSoto County,30.0
+Hillsborough County,Duval County,268.0
+Hillsborough County,Escambia County,33.0
+Hillsborough County,Hardee County,191.0
+Hillsborough County,Hernando County,1053.0
+Hillsborough County,Highlands County,58.0
+Hillsborough County,Hillsborough County,612062.0
+Hillsborough County,Indian River County,26.0
+Hillsborough County,Lake County,184.0
+Hillsborough County,Lee County,494.0
+Hillsborough County,Leon County,103.0
+Hillsborough County,Levy County,15.0
+Hillsborough County,Madison County,4.0
+Hillsborough County,Manatee County,5492.0
+Hillsborough County,Marion County,261.0
+Hillsborough County,Martin County,17.0
+Hillsborough County,Miami-Dade County,974.0
+Hillsborough County,Okaloosa County,38.0
+Hillsborough County,Orange County,2305.0
+Hillsborough County,Osceola County,273.0
+Hillsborough County,Palm Beach County,274.0
+Hillsborough County,Pasco County,15500.0
+Hillsborough County,Pinellas County,41198.0
+Hillsborough County,Polk County,15600.0
+Hillsborough County,Sarasota County,3057.0
+Hillsborough County,Seminole County,227.0
+Hillsborough County,St. Johns County,10.0
+Hillsborough County,Sumter County,168.0
+Hillsborough County,Volusia County,60.0
+Holmes County,Alachua County,11.0
+Holmes County,Bay County,151.0
+Holmes County,Calhoun County,2.0
+Holmes County,Escambia County,59.0
+Holmes County,Gadsden County,3.0
+Holmes County,Gulf County,38.0
+Holmes County,Holmes County,3022.0
+Holmes County,Jackson County,374.0
+Holmes County,Leon County,12.0
+Holmes County,Liberty County,2.0
+Holmes County,Okaloosa County,153.0
+Holmes County,Palm Beach County,24.0
+Holmes County,Walton County,911.0
+Holmes County,Washington County,1112.0
+Indian River County,Alachua County,34.0
+Indian River County,Brevard County,2307.0
+Indian River County,Broward County,292.0
+Indian River County,DeSoto County,17.0
+Indian River County,Duval County,8.0
+Indian River County,Glades County,16.0
+Indian River County,Indian River County,48578.0
+Indian River County,Marion County,24.0
+Indian River County,Martin County,472.0
+Indian River County,Miami-Dade County,142.0
+Indian River County,Okeechobee County,14.0
+Indian River County,Orange County,844.0
+Indian River County,Osceola County,92.0
+Indian River County,Palm Beach County,760.0
+Indian River County,Pasco County,25.0
+Indian River County,Pinellas County,2.0
+Indian River County,Polk County,20.0
+Indian River County,Sarasota County,12.0
+Indian River County,Seminole County,62.0
+Indian River County,St. Lucie County,4608.0
+Indian River County,Volusia County,25.0
+Jackson County,Bay County,435.0
+Jackson County,Broward County,3.0
+Jackson County,Calhoun County,343.0
+Jackson County,Columbia County,47.0
+Jackson County,Duval County,18.0
+Jackson County,Gadsden County,818.0
+Jackson County,Gulf County,36.0
+Jackson County,Holmes County,267.0
+Jackson County,Jackson County,11198.0
+Jackson County,Leon County,642.0
+Jackson County,Liberty County,148.0
+Jackson County,Okaloosa County,27.0
+Jackson County,Orange County,3.0
+Jackson County,Polk County,18.0
+Jackson County,Wakulla County,52.0
+Jackson County,Walton County,47.0
+Jackson County,Washington County,1044.0
+Jefferson County,Columbia County,8.0
+Jefferson County,Duval County,7.0
+Jefferson County,Franklin County,27.0
+Jefferson County,Gadsden County,23.0
+Jefferson County,Jefferson County,1793.0
+Jefferson County,Leon County,2932.0
+Jefferson County,Liberty County,6.0
+Jefferson County,Madison County,45.0
+Jefferson County,Orange County,14.0
+Jefferson County,Santa Rosa County,47.0
+Jefferson County,Seminole County,22.0
+Jefferson County,Suwannee County,28.0
+Jefferson County,Taylor County,143.0
+Jefferson County,Wakulla County,35.0
+Lafayette County,Alachua County,31.0
+Lafayette County,Bay County,13.0
+Lafayette County,Broward County,15.0
+Lafayette County,Columbia County,80.0
+Lafayette County,Dixie County,26.0
+Lafayette County,Gilchrist County,51.0
+Lafayette County,Hamilton County,106.0
+Lafayette County,Lafayette County,1655.0
+Lafayette County,Leon County,57.0
+Lafayette County,Madison County,14.0
+Lafayette County,Marion County,34.0
+Lafayette County,Sarasota County,40.0
+Lafayette County,Suwannee County,242.0
+Lafayette County,Taylor County,282.0
+Lake County,Alachua County,103.0
+Lake County,Brevard County,217.0
+Lake County,Broward County,53.0
+Lake County,Charlotte County,12.0
+Lake County,Citrus County,281.0
+Lake County,Columbia County,82.0
+Lake County,Duval County,84.0
+Lake County,Flagler County,39.0
+Lake County,Hendry County,15.0
+Lake County,Hernando County,106.0
+Lake County,Highlands County,33.0
+Lake County,Hillsborough County,589.0
+Lake County,Lake County,85126.0
+Lake County,Lee County,10.0
+Lake County,Leon County,21.0
+Lake County,Marion County,2449.0
+Lake County,Miami-Dade County,132.0
+Lake County,Okeechobee County,12.0
+Lake County,Orange County,34971.0
+Lake County,Osceola County,2936.0
+Lake County,Palm Beach County,52.0
+Lake County,Pasco County,86.0
+Lake County,Pinellas County,260.0
+Lake County,Polk County,1483.0
+Lake County,Putnam County,87.0
+Lake County,Sarasota County,61.0
+Lake County,Seminole County,4582.0
+Lake County,St. Johns County,154.0
+Lake County,St. Lucie County,42.0
+Lake County,Sumter County,7023.0
+Lake County,Suwannee County,60.0
+Lake County,Volusia County,2582.0
+Lee County,Alachua County,43.0
+Lee County,Bay County,9.0
+Lee County,Brevard County,14.0
+Lee County,Broward County,446.0
+Lee County,Charlotte County,2803.0
+Lee County,Collier County,24626.0
+Lee County,DeSoto County,240.0
+Lee County,Duval County,21.0
+Lee County,Escambia County,18.0
+Lee County,Glades County,28.0
+Lee County,Hardee County,17.0
+Lee County,Hendry County,1127.0
+Lee County,Highlands County,56.0
+Lee County,Hillsborough County,228.0
+Lee County,Lake County,34.0
+Lee County,Lee County,276824.0
+Lee County,Leon County,88.0
+Lee County,Madison County,1521.0
+Lee County,Manatee County,91.0
+Lee County,Marion County,91.0
+Lee County,Martin County,16.0
+Lee County,Miami-Dade County,1199.0
+Lee County,Monroe County,88.0
+Lee County,Orange County,286.0
+Lee County,Palm Beach County,167.0
+Lee County,Pasco County,67.0
+Lee County,Pinellas County,57.0
+Lee County,Polk County,150.0
+Lee County,Sarasota County,750.0
+Lee County,St. Johns County,56.0
+Lee County,St. Lucie County,34.0
+Lee County,Sumter County,13.0
+Lee County,Volusia County,24.0
+Lee County,Washington County,19.0
+Leon County,Alachua County,32.0
+Leon County,Bay County,68.0
+Leon County,Brevard County,22.0
+Leon County,Broward County,16.0
+Leon County,Charlotte County,13.0
+Leon County,Dixie County,19.0
+Leon County,Duval County,107.0
+Leon County,Escambia County,42.0
+Leon County,Franklin County,1.0
+Leon County,Gadsden County,2993.0
+Leon County,Hernando County,71.0
+Leon County,Highlands County,29.0
+Leon County,Hillsborough County,47.0
+Leon County,Jackson County,121.0
+Leon County,Jefferson County,507.0
+Leon County,Leon County,137142.0
+Leon County,Levy County,16.0
+Leon County,Liberty County,60.0
+Leon County,Madison County,117.0
+Leon County,Miami-Dade County,14.0
+Leon County,Monroe County,47.0
+Leon County,Palm Beach County,16.0
+Leon County,Pinellas County,62.0
+Leon County,Polk County,160.0
+Leon County,Santa Rosa County,8.0
+Leon County,Sarasota County,16.0
+Leon County,Seminole County,59.0
+Leon County,Suwannee County,36.0
+Leon County,Taylor County,133.0
+Leon County,Volusia County,15.0
+Leon County,Wakulla County,1373.0
+Leon County,Walton County,38.0
+Levy County,Alachua County,3985.0
+Levy County,Bradford County,52.0
+Levy County,Brevard County,40.0
+Levy County,Broward County,3.0
+Levy County,Citrus County,788.0
+Levy County,Clay County,18.0
+Levy County,Collier County,6.0
+Levy County,Columbia County,130.0
+Levy County,Dixie County,303.0
+Levy County,Duval County,30.0
+Levy County,Gilchrist County,486.0
+Levy County,Hamilton County,5.0
+Levy County,Hernando County,3.0
+Levy County,Hillsborough County,267.0
+Levy County,Lake County,22.0
+Levy County,Lee County,30.0
+Levy County,Leon County,31.0
+Levy County,Levy County,6676.0
+Levy County,Marion County,2038.0
+Levy County,Miami-Dade County,15.0
+Levy County,Nassau County,3.0
+Levy County,Orange County,36.0
+Levy County,Palm Beach County,11.0
+Levy County,Pinellas County,2.0
+Levy County,Sarasota County,17.0
+Levy County,St. Johns County,19.0
+Levy County,Sumter County,19.0
+Levy County,Suwannee County,12.0
+Liberty County,Bay County,82.0
+Liberty County,Calhoun County,162.0
+Liberty County,Franklin County,75.0
+Liberty County,Gadsden County,66.0
+Liberty County,Gulf County,107.0
+Liberty County,Jackson County,123.0
+Liberty County,Leon County,470.0
+Liberty County,Liberty County,1374.0
+Liberty County,Polk County,29.0
+Liberty County,Walton County,1.0
+Madison County,Citrus County,2.0
+Madison County,Clay County,37.0
+Madison County,Columbia County,49.0
+Madison County,Duval County,16.0
+Madison County,Gilchrist County,7.0
+Madison County,Hamilton County,202.0
+Madison County,Jefferson County,87.0
+Madison County,Lafayette County,25.0
+Madison County,Leon County,407.0
+Madison County,Madison County,3835.0
+Madison County,St. Johns County,5.0
+Madison County,Suwannee County,379.0
+Madison County,Taylor County,456.0
+Manatee County,Alachua County,22.0
+Manatee County,Broward County,21.0
+Manatee County,Charlotte County,126.0
+Manatee County,Collier County,85.0
+Manatee County,DeSoto County,134.0
+Manatee County,Duval County,20.0
+Manatee County,Hardee County,49.0
+Manatee County,Highlands County,56.0
+Manatee County,Hillsborough County,3815.0
+Manatee County,Lake County,26.0
+Manatee County,Lee County,132.0
+Manatee County,Leon County,73.0
+Manatee County,Levy County,10.0
+Manatee County,Manatee County,113871.0
+Manatee County,Miami-Dade County,282.0
+Manatee County,Orange County,189.0
+Manatee County,Palm Beach County,54.0
+Manatee County,Pasco County,52.0
+Manatee County,Pinellas County,5157.0
+Manatee County,Polk County,119.0
+Manatee County,Sarasota County,35833.0
+Manatee County,St. Johns County,111.0
+Manatee County,Sumter County,8.0
+Manatee County,Volusia County,30.0
+Manatee County,Walton County,21.0
+Manatee County,Washington County,8.0
+Marion County,Alachua County,4163.0
+Marion County,Bradford County,101.0
+Marion County,Brevard County,51.0
+Marion County,Broward County,28.0
+Marion County,Charlotte County,42.0
+Marion County,Citrus County,1099.0
+Marion County,Clay County,11.0
+Marion County,Collier County,20.0
+Marion County,Columbia County,10.0
+Marion County,Duval County,229.0
+Marion County,Escambia County,7.0
+Marion County,Flagler County,57.0
+Marion County,Gilchrist County,22.0
+Marion County,Hamilton County,14.0
+Marion County,Hardee County,50.0
+Marion County,Highlands County,21.0
+Marion County,Hillsborough County,148.0
+Marion County,Lake County,5645.0
+Marion County,Lee County,18.0
+Marion County,Leon County,115.0
+Marion County,Levy County,472.0
+Marion County,Marion County,105811.0
+Marion County,Miami-Dade County,16.0
+Marion County,Nassau County,12.0
+Marion County,Okaloosa County,29.0
+Marion County,Orange County,907.0
+Marion County,Osceola County,55.0
+Marion County,Palm Beach County,164.0
+Marion County,Pasco County,170.0
+Marion County,Pinellas County,61.0
+Marion County,Polk County,147.0
+Marion County,Putnam County,190.0
+Marion County,Sarasota County,34.0
+Marion County,Seminole County,85.0
+Marion County,St. Johns County,132.0
+Marion County,Sumter County,8665.0
+Marion County,Union County,32.0
+Marion County,Volusia County,312.0
+Martin County,Brevard County,157.0
+Martin County,Broward County,780.0
+Martin County,Clay County,5.0
+Martin County,Duval County,72.0
+Martin County,Escambia County,27.0
+Martin County,Hendry County,16.0
+Martin County,Hernando County,17.0
+Martin County,Indian River County,175.0
+Martin County,Leon County,9.0
+Martin County,Levy County,17.0
+Martin County,Manatee County,9.0
+Martin County,Marion County,5.0
+Martin County,Martin County,43279.0
+Martin County,Miami-Dade County,624.0
+Martin County,Okeechobee County,288.0
+Martin County,Orange County,545.0
+Martin County,Palm Beach County,13696.0
+Martin County,Polk County,64.0
+Martin County,Seminole County,43.0
+Martin County,St. Lucie County,5038.0
+Miami-Dade County,Alachua County,103.0
+Miami-Dade County,Bay County,77.0
+Miami-Dade County,Brevard County,55.0
+Miami-Dade County,Broward County,75787.0
+Miami-Dade County,Citrus County,15.0
+Miami-Dade County,Clay County,42.0
+Miami-Dade County,Collier County,116.0
+Miami-Dade County,Duval County,14.0
+Miami-Dade County,Escambia County,45.0
+Miami-Dade County,Hendry County,28.0
+Miami-Dade County,Highlands County,12.0
+Miami-Dade County,Hillsborough County,484.0
+Miami-Dade County,Indian River County,31.0
+Miami-Dade County,Lee County,209.0
+Miami-Dade County,Leon County,53.0
+Miami-Dade County,Manatee County,49.0
+Miami-Dade County,Miami-Dade County,1207098.0
+Miami-Dade County,Monroe County,5691.0
+Miami-Dade County,Okaloosa County,78.0
+Miami-Dade County,Okeechobee County,83.0
+Miami-Dade County,Orange County,371.0
+Miami-Dade County,Palm Beach County,4177.0
+Miami-Dade County,Pinellas County,120.0
+Miami-Dade County,Polk County,57.0
+Miami-Dade County,Sarasota County,121.0
+Miami-Dade County,Seminole County,23.0
+Miami-Dade County,St. Johns County,43.0
+Miami-Dade County,St. Lucie County,133.0
+Miami-Dade County,Suwannee County,9.0
+Miami-Dade County,Union County,11.0
+Monroe County,Bay County,8.0
+Monroe County,Broward County,297.0
+Monroe County,Collier County,21.0
+Monroe County,Duval County,7.0
+Monroe County,Lee County,33.0
+Monroe County,Martin County,10.0
+Monroe County,Miami-Dade County,1083.0
+Monroe County,Monroe County,38050.0
+Monroe County,Palm Beach County,16.0
+Monroe County,Pinellas County,9.0
+Monroe County,Polk County,24.0
+Nassau County,Baker County,219.0
+Nassau County,Bay County,14.0
+Nassau County,Bradford County,24.0
+Nassau County,Brevard County,39.0
+Nassau County,Broward County,16.0
+Nassau County,Clay County,78.0
+Nassau County,Columbia County,41.0
+Nassau County,Duval County,14146.0
+Nassau County,Marion County,9.0
+Nassau County,Miami-Dade County,108.0
+Nassau County,Nassau County,19560.0
+Nassau County,Orange County,203.0
+Nassau County,Seminole County,13.0
+Nassau County,St. Johns County,233.0
+Nassau County,Union County,17.0
+Nassau County,Volusia County,30.0
+Okaloosa County,Alachua County,2.0
+Okaloosa County,Bay County,351.0
+Okaloosa County,Broward County,22.0
+Okaloosa County,Escambia County,1101.0
+Okaloosa County,Gulf County,18.0
+Okaloosa County,Holmes County,48.0
+Okaloosa County,Jackson County,36.0
+Okaloosa County,Lee County,17.0
+Okaloosa County,Leon County,54.0
+Okaloosa County,Miami-Dade County,31.0
+Okaloosa County,Okaloosa County,91018.0
+Okaloosa County,Palm Beach County,55.0
+Okaloosa County,Santa Rosa County,907.0
+Okaloosa County,Seminole County,9.0
+Okaloosa County,Walton County,5879.0
+Okaloosa County,Washington County,30.0
+Okeechobee County,Alachua County,9.0
+Okeechobee County,Broward County,41.0
+Okeechobee County,Charlotte County,21.0
+Okeechobee County,Citrus County,42.0
+Okeechobee County,DeSoto County,311.0
+Okeechobee County,Glades County,289.0
+Okeechobee County,Hendry County,2.0
+Okeechobee County,Highlands County,18.0
+Okeechobee County,Hillsborough County,12.0
+Okeechobee County,Indian River County,148.0
+Okeechobee County,Manatee County,8.0
+Okeechobee County,Marion County,29.0
+Okeechobee County,Martin County,570.0
+Okeechobee County,Okeechobee County,11891.0
+Okeechobee County,Orange County,9.0
+Okeechobee County,Osceola County,7.0
+Okeechobee County,Palm Beach County,942.0
+Okeechobee County,Pinellas County,11.0
+Okeechobee County,Polk County,82.0
+Okeechobee County,St. Lucie County,884.0
+Orange County,Alachua County,65.0
+Orange County,Bradford County,42.0
+Orange County,Brevard County,4667.0
+Orange County,Broward County,376.0
+Orange County,Citrus County,26.0
+Orange County,Clay County,14.0
+Orange County,Collier County,39.0
+Orange County,Duval County,429.0
+Orange County,Flagler County,42.0
+Orange County,Glades County,15.0
+Orange County,Hernando County,106.0
+Orange County,Highlands County,41.0
+Orange County,Hillsborough County,1562.0
+Orange County,Indian River County,137.0
+Orange County,Lake County,8301.0
+Orange County,Lee County,199.0
+Orange County,Leon County,44.0
+Orange County,Manatee County,51.0
+Orange County,Marion County,429.0
+Orange County,Martin County,41.0
+Orange County,Miami-Dade County,467.0
+Orange County,Okaloosa County,20.0
+Orange County,Orange County,587221.0
+Orange County,Osceola County,22997.0
+Orange County,Palm Beach County,263.0
+Orange County,Pasco County,12.0
+Orange County,Pinellas County,143.0
+Orange County,Polk County,3409.0
+Orange County,Sarasota County,84.0
+Orange County,Seminole County,44151.0
+Orange County,St. Johns County,35.0
+Orange County,St. Lucie County,80.0
+Orange County,Sumter County,791.0
+Orange County,Volusia County,2097.0
+Orange County,Washington County,3.0
+Osceola County,Alachua County,5.0
+Osceola County,Bradford County,21.0
+Osceola County,Brevard County,643.0
+Osceola County,Broward County,149.0
+Osceola County,Charlotte County,10.0
+Osceola County,Citrus County,91.0
+Osceola County,Collier County,37.0
+Osceola County,Duval County,50.0
+Osceola County,Flagler County,11.0
+Osceola County,Highlands County,80.0
+Osceola County,Hillsborough County,717.0
+Osceola County,Indian River County,64.0
+Osceola County,Lake County,708.0
+Osceola County,Lee County,27.0
+Osceola County,Manatee County,14.0
+Osceola County,Miami-Dade County,486.0
+Osceola County,Okaloosa County,22.0
+Osceola County,Orange County,76073.0
+Osceola County,Osceola County,80626.0
+Osceola County,Palm Beach County,31.0
+Osceola County,Pasco County,85.0
+Osceola County,Pinellas County,85.0
+Osceola County,Polk County,4930.0
+Osceola County,Seminole County,1966.0
+Osceola County,St. Johns County,17.0
+Osceola County,Volusia County,506.0
+Palm Beach County,Alachua County,81.0
+Palm Beach County,Bay County,19.0
+Palm Beach County,Brevard County,167.0
+Palm Beach County,Broward County,48026.0
+Palm Beach County,Calhoun County,17.0
+Palm Beach County,Charlotte County,20.0
+Palm Beach County,Citrus County,13.0
+Palm Beach County,Clay County,3.0
+Palm Beach County,Collier County,167.0
+Palm Beach County,Duval County,203.0
+Palm Beach County,Escambia County,104.0
+Palm Beach County,Glades County,245.0
+Palm Beach County,Hendry County,701.0
+Palm Beach County,Hernando County,11.0
+Palm Beach County,Highlands County,7.0
+Palm Beach County,Hillsborough County,210.0
+Palm Beach County,Indian River County,325.0
+Palm Beach County,Jackson County,38.0
+Palm Beach County,Lake County,88.0
+Palm Beach County,Lee County,152.0
+Palm Beach County,Leon County,195.0
+Palm Beach County,Madison County,11.0
+Palm Beach County,Manatee County,47.0
+Palm Beach County,Marion County,90.0
+Palm Beach County,Martin County,4556.0
+Palm Beach County,Miami-Dade County,9067.0
+Palm Beach County,Monroe County,206.0
+Palm Beach County,Okeechobee County,386.0
+Palm Beach County,Orange County,748.0
+Palm Beach County,Osceola County,14.0
+Palm Beach County,Palm Beach County,593493.0
+Palm Beach County,Pasco County,69.0
+Palm Beach County,Pinellas County,173.0
+Palm Beach County,Polk County,78.0
+Palm Beach County,Sarasota County,105.0
+Palm Beach County,St. Lucie County,1408.0
+Palm Beach County,Volusia County,118.0
+Pasco County,Alachua County,52.0
+Pasco County,Brevard County,39.0
+Pasco County,Broward County,180.0
+Pasco County,Citrus County,327.0
+Pasco County,Clay County,12.0
+Pasco County,Collier County,47.0
+Pasco County,DeSoto County,7.0
+Pasco County,Duval County,119.0
+Pasco County,Hernando County,6104.0
+Pasco County,Hillsborough County,58471.0
+Pasco County,Indian River County,22.0
+Pasco County,Lafayette County,24.0
+Pasco County,Lake County,81.0
+Pasco County,Lee County,91.0
+Pasco County,Leon County,15.0
+Pasco County,Levy County,59.0
+Pasco County,Manatee County,270.0
+Pasco County,Marion County,331.0
+Pasco County,Miami-Dade County,76.0
+Pasco County,Orange County,585.0
+Pasco County,Osceola County,68.0
+Pasco County,Palm Beach County,35.0
+Pasco County,Pasco County,120931.0
+Pasco County,Pinellas County,27607.0
+Pasco County,Polk County,2102.0
+Pasco County,Santa Rosa County,60.0
+Pasco County,Sarasota County,336.0
+Pasco County,Seminole County,36.0
+Pasco County,St. Johns County,29.0
+Pasco County,Sumter County,510.0
+Pasco County,Suwannee County,49.0
+Pasco County,Volusia County,35.0
+Pinellas County,Alachua County,146.0
+Pinellas County,Brevard County,30.0
+Pinellas County,Broward County,224.0
+Pinellas County,Charlotte County,18.0
+Pinellas County,Citrus County,131.0
+Pinellas County,Clay County,4.0
+Pinellas County,Collier County,61.0
+Pinellas County,DeSoto County,37.0
+Pinellas County,Duval County,223.0
+Pinellas County,Hendry County,32.0
+Pinellas County,Hernando County,382.0
+Pinellas County,Hillsborough County,46702.0
+Pinellas County,Indian River County,10.0
+Pinellas County,Lake County,43.0
+Pinellas County,Lee County,186.0
+Pinellas County,Leon County,59.0
+Pinellas County,Madison County,14.0
+Pinellas County,Manatee County,1793.0
+Pinellas County,Marion County,14.0
+Pinellas County,Miami-Dade County,278.0
+Pinellas County,Monroe County,15.0
+Pinellas County,Orange County,581.0
+Pinellas County,Osceola County,14.0
+Pinellas County,Palm Beach County,114.0
+Pinellas County,Pasco County,4815.0
+Pinellas County,Pinellas County,390172.0
+Pinellas County,Polk County,891.0
+Pinellas County,Sarasota County,1004.0
+Pinellas County,Seminole County,58.0
+Pinellas County,St. Johns County,62.0
+Pinellas County,St. Lucie County,26.0
+Pinellas County,Sumter County,8.0
+Pinellas County,Volusia County,52.0
+Pinellas County,Wakulla County,25.0
+Polk County,Alachua County,92.0
+Polk County,Brevard County,147.0
+Polk County,Broward County,130.0
+Polk County,Charlotte County,21.0
+Polk County,Citrus County,65.0
+Polk County,Collier County,29.0
+Polk County,Columbia County,15.0
+Polk County,DeSoto County,195.0
+Polk County,Duval County,435.0
+Polk County,Escambia County,6.0
+Polk County,Hamilton County,10.0
+Polk County,Hardee County,538.0
+Polk County,Hendry County,38.0
+Polk County,Hernando County,39.0
+Polk County,Highlands County,1248.0
+Polk County,Hillsborough County,15381.0
+Polk County,Indian River County,71.0
+Polk County,Lake County,1522.0
+Polk County,Lee County,164.0
+Polk County,Leon County,19.0
+Polk County,Manatee County,206.0
+Polk County,Marion County,146.0
+Polk County,Martin County,17.0
+Polk County,Miami-Dade County,381.0
+Polk County,Monroe County,7.0
+Polk County,Okeechobee County,27.0
+Polk County,Orange County,29096.0
+Polk County,Osceola County,10830.0
+Polk County,Palm Beach County,159.0
+Polk County,Pasco County,708.0
+Polk County,Pinellas County,772.0
+Polk County,Polk County,225910.0
+Polk County,Sarasota County,128.0
+Polk County,Seminole County,521.0
+Polk County,Sumter County,101.0
+Polk County,Suwannee County,5.0
+Polk County,Taylor County,17.0
+Polk County,Volusia County,119.0
+Putnam County,Alachua County,2231.0
+Putnam County,Bradford County,160.0
+Putnam County,Broward County,39.0
+Putnam County,Clay County,957.0
+Putnam County,Columbia County,39.0
+Putnam County,Dixie County,15.0
+Putnam County,Duval County,1249.0
+Putnam County,Flagler County,848.0
+Putnam County,Hillsborough County,12.0
+Putnam County,Lake County,124.0
+Putnam County,Manatee County,113.0
+Putnam County,Marion County,472.0
+Putnam County,Miami-Dade County,5.0
+Putnam County,Nassau County,33.0
+Putnam County,Orange County,227.0
+Putnam County,Pinellas County,6.0
+Putnam County,Putnam County,15907.0
+Putnam County,Seminole County,58.0
+Putnam County,St. Johns County,2582.0
+Putnam County,Taylor County,28.0
+Putnam County,Union County,28.0
+Putnam County,Volusia County,747.0
+Santa Rosa County,Alachua County,37.0
+Santa Rosa County,Bay County,193.0
+Santa Rosa County,Brevard County,12.0
+Santa Rosa County,Broward County,49.0
+Santa Rosa County,Calhoun County,17.0
+Santa Rosa County,Escambia County,25789.0
+Santa Rosa County,Hernando County,12.0
+Santa Rosa County,Jackson County,43.0
+Santa Rosa County,Leon County,38.0
+Santa Rosa County,Miami-Dade County,49.0
+Santa Rosa County,Okaloosa County,11434.0
+Santa Rosa County,Orange County,24.0
+Santa Rosa County,Palm Beach County,11.0
+Santa Rosa County,Santa Rosa County,36440.0
+Santa Rosa County,Sarasota County,61.0
+Santa Rosa County,St. Johns County,75.0
+Santa Rosa County,Walton County,157.0
+Santa Rosa County,Washington County,14.0
+Sarasota County,Brevard County,18.0
+Sarasota County,Broward County,138.0
+Sarasota County,Charlotte County,6344.0
+Sarasota County,Citrus County,8.0
+Sarasota County,Collier County,159.0
+Sarasota County,DeSoto County,230.0
+Sarasota County,Duval County,89.0
+Sarasota County,Hernando County,9.0
+Sarasota County,Highlands County,163.0
+Sarasota County,Hillsborough County,1350.0
+Sarasota County,Lee County,1377.0
+Sarasota County,Manatee County,10981.0
+Sarasota County,Marion County,26.0
+Sarasota County,Miami-Dade County,134.0
+Sarasota County,Orange County,208.0
+Sarasota County,Palm Beach County,86.0
+Sarasota County,Pasco County,44.0
+Sarasota County,Pinellas County,522.0
+Sarasota County,Polk County,16.0
+Sarasota County,Sarasota County,146699.0
+Sarasota County,Seminole County,106.0
+Sarasota County,St. Johns County,8.0
+Sarasota County,St. Lucie County,7.0
+Sarasota County,Washington County,5.0
+Seminole County,Alachua County,76.0
+Seminole County,Brevard County,1352.0
+Seminole County,Broward County,289.0
+Seminole County,Citrus County,19.0
+Seminole County,Duval County,377.0
+Seminole County,Flagler County,88.0
+Seminole County,Hernando County,10.0
+Seminole County,Hillsborough County,420.0
+Seminole County,Indian River County,20.0
+Seminole County,Lake County,1398.0
+Seminole County,Lee County,95.0
+Seminole County,Leon County,88.0
+Seminole County,Manatee County,41.0
+Seminole County,Marion County,72.0
+Seminole County,Miami-Dade County,426.0
+Seminole County,Orange County,90243.0
+Seminole County,Osceola County,1288.0
+Seminole County,Palm Beach County,264.0
+Seminole County,Pasco County,20.0
+Seminole County,Pinellas County,99.0
+Seminole County,Polk County,333.0
+Seminole County,Putnam County,23.0
+Seminole County,Santa Rosa County,1.0
+Seminole County,Sarasota County,50.0
+Seminole County,Seminole County,132358.0
+Seminole County,St. Johns County,176.0
+Seminole County,St. Lucie County,305.0
+Seminole County,Sumter County,106.0
+Seminole County,Union County,10.0
+Seminole County,Volusia County,4634.0
+St. Johns County,Alachua County,323.0
+St. Johns County,Baker County,38.0
+St. Johns County,Bradford County,234.0
+St. Johns County,Brevard County,34.0
+St. Johns County,Broward County,10.0
+St. Johns County,Clay County,1400.0
+St. Johns County,Collier County,119.0
+St. Johns County,Columbia County,14.0
+St. Johns County,Duval County,38145.0
+St. Johns County,Escambia County,78.0
+St. Johns County,Flagler County,527.0
+St. Johns County,Hardee County,23.0
+St. Johns County,Hillsborough County,50.0
+St. Johns County,Lee County,33.0
+St. Johns County,Leon County,33.0
+St. Johns County,Marion County,40.0
+St. Johns County,Martin County,23.0
+St. Johns County,Miami-Dade County,118.0
+St. Johns County,Monroe County,16.0
+St. Johns County,Nassau County,85.0
+St. Johns County,Okaloosa County,10.0
+St. Johns County,Orange County,472.0
+St. Johns County,Osceola County,12.0
+St. Johns County,Palm Beach County,27.0
+St. Johns County,Pinellas County,5.0
+St. Johns County,Polk County,420.0
+St. Johns County,Putnam County,887.0
+St. Johns County,Seminole County,153.0
+St. Johns County,St. Johns County,69855.0
+St. Johns County,St. Lucie County,21.0
+St. Johns County,Sumter County,6.0
+St. Johns County,Taylor County,11.0
+St. Johns County,Volusia County,256.0
+St. Lucie County,Alachua County,8.0
+St. Lucie County,Bay County,8.0
+St. Lucie County,Brevard County,773.0
+St. Lucie County,Broward County,1449.0
+St. Lucie County,Citrus County,24.0
+St. Lucie County,Collier County,40.0
+St. Lucie County,Duval County,67.0
+St. Lucie County,Hendry County,34.0
+St. Lucie County,Hillsborough County,30.0
+St. Lucie County,Indian River County,6796.0
+St. Lucie County,Lake County,27.0
+St. Lucie County,Lee County,31.0
+St. Lucie County,Marion County,23.0
+St. Lucie County,Martin County,22528.0
+St. Lucie County,Miami-Dade County,743.0
+St. Lucie County,Okeechobee County,645.0
+St. Lucie County,Orange County,464.0
+St. Lucie County,Osceola County,3.0
+St. Lucie County,Palm Beach County,14155.0
+St. Lucie County,Pasco County,137.0
+St. Lucie County,Pinellas County,40.0
+St. Lucie County,Polk County,64.0
+St. Lucie County,St. Lucie County,86205.0
+St. Lucie County,Volusia County,58.0
+Sumter County,Alachua County,258.0
+Sumter County,Bradford County,9.0
+Sumter County,Brevard County,27.0
+Sumter County,Broward County,65.0
+Sumter County,Citrus County,197.0
+Sumter County,Clay County,35.0
+Sumter County,Duval County,125.0
+Sumter County,Hernando County,395.0
+Sumter County,Hillsborough County,288.0
+Sumter County,Indian River County,8.0
+Sumter County,Lake County,4684.0
+Sumter County,Marion County,1268.0
+Sumter County,Monroe County,2.0
+Sumter County,Orange County,634.0
+Sumter County,Osceola County,15.0
+Sumter County,Palm Beach County,8.0
+Sumter County,Pasco County,430.0
+Sumter County,Pinellas County,136.0
+Sumter County,Polk County,96.0
+Sumter County,Sarasota County,74.0
+Sumter County,Seminole County,31.0
+Sumter County,Sumter County,15892.0
+Sumter County,Volusia County,86.0
+Suwannee County,Alachua County,667.0
+Suwannee County,Baker County,16.0
+Suwannee County,Bradford County,111.0
+Suwannee County,Broward County,15.0
+Suwannee County,Citrus County,14.0
+Suwannee County,Columbia County,2985.0
+Suwannee County,Duval County,136.0
+Suwannee County,Gilchrist County,122.0
+Suwannee County,Hamilton County,401.0
+Suwannee County,Hillsborough County,4.0
+Suwannee County,Jefferson County,15.0
+Suwannee County,Lafayette County,303.0
+Suwannee County,Lee County,29.0
+Suwannee County,Madison County,274.0
+Suwannee County,Suwannee County,11268.0
+Suwannee County,Taylor County,114.0
+Suwannee County,Union County,199.0
+Taylor County,Alachua County,45.0
+Taylor County,Dixie County,40.0
+Taylor County,Duval County,50.0
+Taylor County,Escambia County,10.0
+Taylor County,Franklin County,42.0
+Taylor County,Gadsden County,35.0
+Taylor County,Hillsborough County,10.0
+Taylor County,Jefferson County,40.0
+Taylor County,Lafayette County,18.0
+Taylor County,Leon County,525.0
+Taylor County,Madison County,42.0
+Taylor County,Suwannee County,67.0
+Taylor County,Taylor County,5047.0
+Union County,Alachua County,892.0
+Union County,Baker County,143.0
+Union County,Bradford County,230.0
+Union County,Clay County,5.0
+Union County,Columbia County,419.0
+Union County,Duval County,130.0
+Union County,Hillsborough County,20.0
+Union County,Levy County,90.0
+Union County,Marion County,18.0
+Union County,Putnam County,5.0
+Union County,Suwannee County,25.0
+Union County,Union County,1887.0
+Volusia County,Alachua County,32.0
+Volusia County,Bradford County,6.0
+Volusia County,Brevard County,1358.0
+Volusia County,Broward County,101.0
+Volusia County,Citrus County,9.0
+Volusia County,Clay County,13.0
+Volusia County,Duval County,326.0
+Volusia County,Flagler County,2236.0
+Volusia County,Gadsden County,7.0
+Volusia County,Hernando County,44.0
+Volusia County,Hillsborough County,211.0
+Volusia County,Indian River County,13.0
+Volusia County,Lake County,1189.0
+Volusia County,Lee County,31.0
+Volusia County,Leon County,136.0
+Volusia County,Manatee County,20.0
+Volusia County,Marion County,143.0
+Volusia County,Miami-Dade County,151.0
+Volusia County,Nassau County,36.0
+Volusia County,Orange County,15178.0
+Volusia County,Osceola County,117.0
+Volusia County,Palm Beach County,51.0
+Volusia County,Pinellas County,165.0
+Volusia County,Polk County,68.0
+Volusia County,Putnam County,262.0
+Volusia County,Sarasota County,16.0
+Volusia County,Seminole County,23250.0
+Volusia County,St. Johns County,403.0
+Volusia County,St. Lucie County,33.0
+Volusia County,Sumter County,239.0
+Volusia County,Suwannee County,26.0
+Volusia County,Volusia County,182309.0
+Wakulla County,Franklin County,93.0
+Wakulla County,Gadsden County,295.0
+Wakulla County,Leon County,7608.0
+Wakulla County,Liberty County,129.0
+Wakulla County,Marion County,24.0
+Wakulla County,Polk County,9.0
+Wakulla County,Seminole County,10.0
+Wakulla County,Taylor County,84.0
+Wakulla County,Wakulla County,6006.0
+Wakulla County,Walton County,27.0
+Walton County,Bay County,947.0
+Walton County,Calhoun County,11.0
+Walton County,Duval County,58.0
+Walton County,Escambia County,227.0
+Walton County,Hillsborough County,60.0
+Walton County,Holmes County,183.0
+Walton County,Indian River County,26.0
+Walton County,Jackson County,45.0
+Walton County,Leon County,28.0
+Walton County,Okaloosa County,5138.0
+Walton County,Orange County,19.0
+Walton County,St. Lucie County,57.0
+Walton County,Volusia County,16.0
+Walton County,Walton County,23153.0
+Walton County,Washington County,47.0
+Washington County,Bay County,2538.0
+Washington County,Escambia County,28.0
+Washington County,Franklin County,33.0
+Washington County,Gadsden County,2.0
+Washington County,Gulf County,26.0
+Washington County,Holmes County,515.0
+Washington County,Jackson County,694.0
+Washington County,Leon County,65.0
+Washington County,Liberty County,16.0
+Washington County,Okaloosa County,91.0
+Washington County,Okeechobee County,9.0
+Washington County,Orange County,11.0
+Washington County,St. Lucie County,32.0
+Washington County,Walton County,305.0
+Washington County,Washington County,4160.0

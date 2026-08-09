@@ -1,0 +1,1531 @@
+source,target,weight
+Alameda County,Alameda County,520898.0
+Alameda County,Butte County,23.0
+Alameda County,Calaveras County,31.0
+Alameda County,Contra Costa County,37954.0
+Alameda County,Del Norte County,45.0
+Alameda County,El Dorado County,40.0
+Alameda County,Fresno County,69.0
+Alameda County,Humboldt County,5.0
+Alameda County,Kern County,21.0
+Alameda County,Los Angeles County,434.0
+Alameda County,Marin County,3413.0
+Alameda County,Mendocino County,25.0
+Alameda County,Merced County,95.0
+Alameda County,Monterey County,225.0
+Alameda County,Napa County,553.0
+Alameda County,Orange County,312.0
+Alameda County,Placer County,128.0
+Alameda County,Riverside County,62.0
+Alameda County,Sacramento County,1059.0
+Alameda County,San Benito County,24.0
+Alameda County,San Bernardino County,187.0
+Alameda County,San Diego County,184.0
+Alameda County,San Francisco County,106952.0
+Alameda County,San Joaquin County,1883.0
+Alameda County,San Luis Obispo County,47.0
+Alameda County,San Mateo County,40920.0
+Alameda County,Santa Barbara County,78.0
+Alameda County,Santa Clara County,77415.0
+Alameda County,Santa Cruz County,195.0
+Alameda County,Shasta County,5.0
+Alameda County,Siskiyou County,18.0
+Alameda County,Solano County,1851.0
+Alameda County,Sonoma County,662.0
+Alameda County,Stanislaus County,516.0
+Alameda County,Trinity County,2.0
+Alameda County,Tulare County,61.0
+Alameda County,Tuolumne County,41.0
+Alameda County,Ventura County,36.0
+Alameda County,Yolo County,393.0
+Alpine County,Alpine County,273.0
+Alpine County,Calaveras County,18.0
+Alpine County,El Dorado County,28.0
+Alpine County,Kern County,4.0
+Amador County,Alameda County,148.0
+Amador County,Alpine County,10.0
+Amador County,Amador County,9560.0
+Amador County,Calaveras County,407.0
+Amador County,Contra Costa County,303.0
+Amador County,El Dorado County,630.0
+Amador County,Placer County,85.0
+Amador County,Plumas County,23.0
+Amador County,Sacramento County,1864.0
+Amador County,San Francisco County,74.0
+Amador County,San Joaquin County,532.0
+Amador County,San Mateo County,73.0
+Amador County,Santa Clara County,119.0
+Amador County,Solano County,4.0
+Amador County,Sonoma County,11.0
+Amador County,Stanislaus County,40.0
+Amador County,Tuolumne County,36.0
+Amador County,Yolo County,25.0
+Butte County,Alameda County,266.0
+Butte County,Amador County,8.0
+Butte County,Butte County,83817.0
+Butte County,Colusa County,280.0
+Butte County,Contra Costa County,82.0
+Butte County,Fresno County,76.0
+Butte County,Glenn County,1167.0
+Butte County,Humboldt County,31.0
+Butte County,Kern County,41.0
+Butte County,Lake County,28.0
+Butte County,Lassen County,214.0
+Butte County,Los Angeles County,45.0
+Butte County,Marin County,45.0
+Butte County,Mariposa County,24.0
+Butte County,Modoc County,23.0
+Butte County,Monterey County,43.0
+Butte County,Napa County,29.0
+Butte County,Nevada County,125.0
+Butte County,Orange County,2.0
+Butte County,Placer County,284.0
+Butte County,Plumas County,159.0
+Butte County,Sacramento County,1000.0
+Butte County,San Bernardino County,7.0
+Butte County,San Diego County,23.0
+Butte County,San Francisco County,44.0
+Butte County,San Joaquin County,158.0
+Butte County,San Luis Obispo County,12.0
+Butte County,San Mateo County,65.0
+Butte County,Santa Clara County,187.0
+Butte County,Santa Cruz County,80.0
+Butte County,Shasta County,445.0
+Butte County,Siskiyou County,9.0
+Butte County,Solano County,90.0
+Butte County,Sonoma County,137.0
+Butte County,Sutter County,1518.0
+Butte County,Tehama County,842.0
+Butte County,Trinity County,13.0
+Butte County,Tuolumne County,29.0
+Butte County,Yolo County,300.0
+Butte County,Yuba County,708.0
+Calaveras County,Alameda County,333.0
+Calaveras County,Alpine County,55.0
+Calaveras County,Amador County,1092.0
+Calaveras County,Calaveras County,9004.0
+Calaveras County,Contra Costa County,236.0
+Calaveras County,Los Angeles County,13.0
+Calaveras County,Placer County,43.0
+Calaveras County,Riverside County,30.0
+Calaveras County,Sacramento County,908.0
+Calaveras County,San Diego County,31.0
+Calaveras County,San Francisco County,43.0
+Calaveras County,San Joaquin County,2759.0
+Calaveras County,San Mateo County,101.0
+Calaveras County,Santa Barbara County,16.0
+Calaveras County,Santa Clara County,319.0
+Calaveras County,Santa Cruz County,18.0
+Calaveras County,Solano County,73.0
+Calaveras County,Stanislaus County,621.0
+Calaveras County,Tuolumne County,1114.0
+Colusa County,Alameda County,41.0
+Colusa County,Amador County,19.0
+Colusa County,Butte County,216.0
+Colusa County,Colusa County,6496.0
+Colusa County,Contra Costa County,3.0
+Colusa County,Fresno County,5.0
+Colusa County,Glenn County,110.0
+Colusa County,Kern County,52.0
+Colusa County,Lake County,26.0
+Colusa County,Marin County,4.0
+Colusa County,Mendocino County,39.0
+Colusa County,Napa County,16.0
+Colusa County,Placer County,42.0
+Colusa County,Sacramento County,188.0
+Colusa County,San Francisco County,22.0
+Colusa County,San Joaquin County,197.0
+Colusa County,San Mateo County,11.0
+Colusa County,Siskiyou County,8.0
+Colusa County,Solano County,236.0
+Colusa County,Sutter County,396.0
+Colusa County,Ventura County,6.0
+Colusa County,Yolo County,1275.0
+Colusa County,Yuba County,40.0
+Contra Costa County,Alameda County,102534.0
+Contra Costa County,Butte County,14.0
+Contra Costa County,Calaveras County,5.0
+Contra Costa County,Contra Costa County,322968.0
+Contra Costa County,El Dorado County,23.0
+Contra Costa County,Fresno County,300.0
+Contra Costa County,Humboldt County,38.0
+Contra Costa County,Kern County,211.0
+Contra Costa County,Lake County,26.0
+Contra Costa County,Los Angeles County,562.0
+Contra Costa County,Marin County,9015.0
+Contra Costa County,Merced County,127.0
+Contra Costa County,Monterey County,131.0
+Contra Costa County,Napa County,1148.0
+Contra Costa County,Orange County,110.0
+Contra Costa County,Placer County,205.0
+Contra Costa County,Riverside County,58.0
+Contra Costa County,Sacramento County,1430.0
+Contra Costa County,San Bernardino County,49.0
+Contra Costa County,San Diego County,181.0
+Contra Costa County,San Francisco County,63010.0
+Contra Costa County,San Joaquin County,2401.0
+Contra Costa County,San Luis Obispo County,42.0
+Contra Costa County,San Mateo County,13967.0
+Contra Costa County,Santa Barbara County,97.0
+Contra Costa County,Santa Clara County,16068.0
+Contra Costa County,Santa Cruz County,175.0
+Contra Costa County,Siskiyou County,23.0
+Contra Costa County,Solano County,7814.0
+Contra Costa County,Sonoma County,1297.0
+Contra Costa County,Stanislaus County,280.0
+Contra Costa County,Sutter County,26.0
+Contra Costa County,Tehama County,5.0
+Contra Costa County,Tulare County,147.0
+Contra Costa County,Ventura County,27.0
+Contra Costa County,Yolo County,551.0
+Contra Costa County,Yuba County,80.0
+Del Norte County,Del Norte County,8183.0
+Del Norte County,Fresno County,55.0
+Del Norte County,Humboldt County,181.0
+Del Norte County,Mendocino County,9.0
+Del Norte County,San Bernardino County,6.0
+Del Norte County,Sonoma County,32.0
+El Dorado County,Alameda County,377.0
+El Dorado County,Alpine County,66.0
+El Dorado County,Amador County,351.0
+El Dorado County,Butte County,13.0
+El Dorado County,Calaveras County,10.0
+El Dorado County,Contra Costa County,475.0
+El Dorado County,El Dorado County,49972.0
+El Dorado County,Fresno County,61.0
+El Dorado County,Humboldt County,9.0
+El Dorado County,Kern County,5.0
+El Dorado County,Lake County,11.0
+El Dorado County,Lassen County,14.0
+El Dorado County,Los Angeles County,71.0
+El Dorado County,Marin County,33.0
+El Dorado County,Mariposa County,59.0
+El Dorado County,Mendocino County,73.0
+El Dorado County,Merced County,38.0
+El Dorado County,Napa County,56.0
+El Dorado County,Nevada County,210.0
+El Dorado County,Orange County,20.0
+El Dorado County,Placer County,4350.0
+El Dorado County,Plumas County,24.0
+El Dorado County,Sacramento County,21015.0
+El Dorado County,San Bernardino County,72.0
+El Dorado County,San Diego County,12.0
+El Dorado County,San Francisco County,193.0
+El Dorado County,San Joaquin County,219.0
+El Dorado County,San Mateo County,474.0
+El Dorado County,Santa Clara County,541.0
+El Dorado County,Santa Cruz County,27.0
+El Dorado County,Shasta County,9.0
+El Dorado County,Siskiyou County,36.0
+El Dorado County,Solano County,186.0
+El Dorado County,Sonoma County,178.0
+El Dorado County,Stanislaus County,73.0
+El Dorado County,Sutter County,61.0
+El Dorado County,Tuolumne County,32.0
+El Dorado County,Yolo County,807.0
+El Dorado County,Yuba County,21.0
+Fresno County,Alameda County,495.0
+Fresno County,Contra Costa County,189.0
+Fresno County,Fresno County,360566.0
+Fresno County,Glenn County,16.0
+Fresno County,Humboldt County,88.0
+Fresno County,Imperial County,18.0
+Fresno County,Kern County,1238.0
+Fresno County,Kings County,5691.0
+Fresno County,Los Angeles County,412.0
+Fresno County,Madera County,11377.0
+Fresno County,Marin County,20.0
+Fresno County,Mariposa County,225.0
+Fresno County,Mendocino County,35.0
+Fresno County,Merced County,1508.0
+Fresno County,Monterey County,261.0
+Fresno County,Orange County,92.0
+Fresno County,Placer County,140.0
+Fresno County,Riverside County,41.0
+Fresno County,Sacramento County,427.0
+Fresno County,San Benito County,37.0
+Fresno County,San Bernardino County,104.0
+Fresno County,San Diego County,71.0
+Fresno County,San Francisco County,315.0
+Fresno County,San Joaquin County,623.0
+Fresno County,San Luis Obispo County,321.0
+Fresno County,San Mateo County,269.0
+Fresno County,Santa Barbara County,70.0
+Fresno County,Santa Clara County,1007.0
+Fresno County,Santa Cruz County,84.0
+Fresno County,Shasta County,70.0
+Fresno County,Solano County,131.0
+Fresno County,Sonoma County,30.0
+Fresno County,Stanislaus County,761.0
+Fresno County,Tulare County,8822.0
+Fresno County,Ventura County,124.0
+Fresno County,Yolo County,23.0
+Fresno County,Yuba County,24.0
+Glenn County,Butte County,2110.0
+Glenn County,Colusa County,484.0
+Glenn County,Glenn County,7944.0
+Glenn County,Plumas County,4.0
+Glenn County,Sacramento County,48.0
+Glenn County,Santa Clara County,58.0
+Glenn County,Shasta County,49.0
+Glenn County,Sonoma County,3.0
+Glenn County,Stanislaus County,1.0
+Glenn County,Sutter County,32.0
+Glenn County,Tehama County,630.0
+Glenn County,Tulare County,8.0
+Glenn County,Yolo County,3.0
+Glenn County,Yuba County,9.0
+Humboldt County,Alameda County,76.0
+Humboldt County,Amador County,4.0
+Humboldt County,Butte County,36.0
+Humboldt County,Contra Costa County,11.0
+Humboldt County,Del Norte County,129.0
+Humboldt County,Humboldt County,57660.0
+Humboldt County,Lake County,9.0
+Humboldt County,Los Angeles County,108.0
+Humboldt County,Mendocino County,55.0
+Humboldt County,Napa County,12.0
+Humboldt County,Orange County,17.0
+Humboldt County,San Bernardino County,8.0
+Humboldt County,San Francisco County,40.0
+Humboldt County,San Mateo County,16.0
+Humboldt County,Santa Clara County,2.0
+Humboldt County,Shasta County,25.0
+Humboldt County,Siskiyou County,45.0
+Humboldt County,Sonoma County,10.0
+Humboldt County,Tehama County,28.0
+Humboldt County,Trinity County,126.0
+Humboldt County,Tulare County,17.0
+Imperial County,Imperial County,52547.0
+Imperial County,Kings County,31.0
+Imperial County,Los Angeles County,124.0
+Imperial County,Monterey County,35.0
+Imperial County,Orange County,63.0
+Imperial County,Riverside County,2320.0
+Imperial County,Sacramento County,13.0
+Imperial County,San Benito County,30.0
+Imperial County,San Bernardino County,116.0
+Imperial County,San Diego County,1413.0
+Imperial County,San Mateo County,7.0
+Imperial County,Santa Barbara County,34.0
+Inyo County,Inyo County,6890.0
+Inyo County,Kern County,186.0
+Inyo County,Los Angeles County,12.0
+Inyo County,Mono County,641.0
+Inyo County,Riverside County,11.0
+Inyo County,San Bernardino County,76.0
+Kern County,Alameda County,156.0
+Kern County,Calaveras County,12.0
+Kern County,Contra Costa County,63.0
+Kern County,Fresno County,639.0
+Kern County,Inyo County,216.0
+Kern County,Kern County,317922.0
+Kern County,Kings County,546.0
+Kern County,Los Angeles County,10693.0
+Kern County,Madera County,53.0
+Kern County,Mariposa County,10.0
+Kern County,Merced County,30.0
+Kern County,Monterey County,115.0
+Kern County,Napa County,25.0
+Kern County,Orange County,468.0
+Kern County,Placer County,46.0
+Kern County,Riverside County,257.0
+Kern County,Sacramento County,20.0
+Kern County,San Bernardino County,978.0
+Kern County,San Diego County,220.0
+Kern County,San Francisco County,64.0
+Kern County,San Joaquin County,101.0
+Kern County,San Luis Obispo County,385.0
+Kern County,San Mateo County,243.0
+Kern County,Santa Barbara County,385.0
+Kern County,Santa Clara County,128.0
+Kern County,Santa Cruz County,22.0
+Kern County,Solano County,66.0
+Kern County,Sonoma County,81.0
+Kern County,Stanislaus County,196.0
+Kern County,Tulare County,3925.0
+Kern County,Ventura County,595.0
+Kern County,Yolo County,16.0
+Kings County,Alameda County,81.0
+Kings County,Fresno County,5777.0
+Kings County,Kern County,1485.0
+Kings County,Kings County,42779.0
+Kings County,Los Angeles County,155.0
+Kings County,Madera County,80.0
+Kings County,Merced County,25.0
+Kings County,Monterey County,70.0
+Kings County,Orange County,25.0
+Kings County,Placer County,4.0
+Kings County,Riverside County,29.0
+Kings County,Sacramento County,51.0
+Kings County,San Diego County,35.0
+Kings County,San Francisco County,70.0
+Kings County,San Joaquin County,20.0
+Kings County,San Luis Obispo County,728.0
+Kings County,San Mateo County,159.0
+Kings County,Santa Barbara County,17.0
+Kings County,Santa Clara County,70.0
+Kings County,Solano County,19.0
+Kings County,Tulare County,4690.0
+Kings County,Ventura County,17.0
+Lake County,Alameda County,136.0
+Lake County,Contra Costa County,44.0
+Lake County,Lake County,17460.0
+Lake County,Marin County,125.0
+Lake County,Mendocino County,1518.0
+Lake County,Napa County,1126.0
+Lake County,Sacramento County,288.0
+Lake County,San Francisco County,226.0
+Lake County,San Joaquin County,8.0
+Lake County,San Mateo County,39.0
+Lake County,Santa Clara County,163.0
+Lake County,Sonoma County,1811.0
+Lake County,Ventura County,25.0
+Lake County,Yolo County,9.0
+Lassen County,Alameda County,1.0
+Lassen County,Butte County,1.0
+Lassen County,Contra Costa County,7.0
+Lassen County,Humboldt County,10.0
+Lassen County,Lassen County,7442.0
+Lassen County,Modoc County,69.0
+Lassen County,Nevada County,11.0
+Lassen County,Placer County,12.0
+Lassen County,Plumas County,221.0
+Lassen County,San Bernardino County,24.0
+Lassen County,San Francisco County,15.0
+Lassen County,Shasta County,134.0
+Lassen County,Solano County,3.0
+Lassen County,Yolo County,8.0
+Los Angeles County,Alameda County,881.0
+Los Angeles County,Amador County,39.0
+Los Angeles County,Butte County,15.0
+Los Angeles County,Contra Costa County,255.0
+Los Angeles County,Del Norte County,32.0
+Los Angeles County,El Dorado County,15.0
+Los Angeles County,Fresno County,432.0
+Los Angeles County,Glenn County,10.0
+Los Angeles County,Humboldt County,103.0
+Los Angeles County,Imperial County,169.0
+Los Angeles County,Inyo County,20.0
+Los Angeles County,Kern County,8317.0
+Los Angeles County,Kings County,87.0
+Los Angeles County,Lassen County,6.0
+Los Angeles County,Los Angeles County,4429523.0
+Los Angeles County,Madera County,18.0
+Los Angeles County,Marin County,158.0
+Los Angeles County,Mendocino County,71.0
+Los Angeles County,Merced County,274.0
+Los Angeles County,Mono County,5.0
+Los Angeles County,Monterey County,326.0
+Los Angeles County,Napa County,66.0
+Los Angeles County,Nevada County,40.0
+Los Angeles County,Orange County,196169.0
+Los Angeles County,Placer County,75.0
+Los Angeles County,Riverside County,16786.0
+Los Angeles County,Sacramento County,586.0
+Los Angeles County,San Bernardino County,60779.0
+Los Angeles County,San Diego County,4724.0
+Los Angeles County,San Francisco County,2080.0
+Los Angeles County,San Joaquin County,222.0
+Los Angeles County,San Luis Obispo County,583.0
+Los Angeles County,San Mateo County,466.0
+Los Angeles County,Santa Barbara County,1668.0
+Los Angeles County,Santa Clara County,1939.0
+Los Angeles County,Santa Cruz County,304.0
+Los Angeles County,Shasta County,26.0
+Los Angeles County,Siskiyou County,30.0
+Los Angeles County,Solano County,103.0
+Los Angeles County,Sonoma County,557.0
+Los Angeles County,Stanislaus County,81.0
+Los Angeles County,Sutter County,39.0
+Los Angeles County,Tehama County,28.0
+Los Angeles County,Trinity County,106.0
+Los Angeles County,Tulare County,197.0
+Los Angeles County,Ventura County,34298.0
+Los Angeles County,Yolo County,148.0
+Los Angeles County,Yuba County,3.0
+Madera County,Alameda County,51.0
+Madera County,Butte County,14.0
+Madera County,Calaveras County,11.0
+Madera County,Contra Costa County,63.0
+Madera County,Fresno County,14283.0
+Madera County,Humboldt County,27.0
+Madera County,Kern County,130.0
+Madera County,Kings County,269.0
+Madera County,Los Angeles County,90.0
+Madera County,Madera County,35721.0
+Madera County,Mariposa County,842.0
+Madera County,Merced County,2392.0
+Madera County,Monterey County,333.0
+Madera County,Nevada County,2.0
+Madera County,Orange County,16.0
+Madera County,Riverside County,40.0
+Madera County,Sacramento County,20.0
+Madera County,San Benito County,28.0
+Madera County,San Diego County,24.0
+Madera County,San Joaquin County,214.0
+Madera County,San Luis Obispo County,7.0
+Madera County,San Mateo County,23.0
+Madera County,Santa Barbara County,68.0
+Madera County,Santa Clara County,542.0
+Madera County,Santa Cruz County,30.0
+Madera County,Shasta County,76.0
+Madera County,Siskiyou County,34.0
+Madera County,Solano County,90.0
+Madera County,Sonoma County,22.0
+Madera County,Stanislaus County,371.0
+Madera County,Tulare County,345.0
+Madera County,Ventura County,87.0
+Marin County,Alameda County,4022.0
+Marin County,Contra Costa County,2406.0
+Marin County,Fresno County,9.0
+Marin County,Kern County,12.0
+Marin County,Lake County,48.0
+Marin County,Los Angeles County,115.0
+Marin County,Marin County,84000.0
+Marin County,Monterey County,23.0
+Marin County,Napa County,444.0
+Marin County,Nevada County,14.0
+Marin County,Orange County,25.0
+Marin County,Placer County,22.0
+Marin County,Riverside County,5.0
+Marin County,Sacramento County,350.0
+Marin County,San Bernardino County,12.0
+Marin County,San Diego County,8.0
+Marin County,San Francisco County,26654.0
+Marin County,San Luis Obispo County,83.0
+Marin County,San Mateo County,2079.0
+Marin County,Santa Clara County,906.0
+Marin County,Solano County,574.0
+Marin County,Sonoma County,4554.0
+Marin County,Yolo County,103.0
+Mariposa County,Alameda County,63.0
+Mariposa County,Calaveras County,3.0
+Mariposa County,Contra Costa County,1.0
+Mariposa County,Fresno County,63.0
+Mariposa County,Kern County,6.0
+Mariposa County,Lake County,4.0
+Mariposa County,Madera County,450.0
+Mariposa County,Marin County,11.0
+Mariposa County,Mariposa County,5164.0
+Mariposa County,Merced County,193.0
+Mariposa County,Sacramento County,3.0
+Mariposa County,San Joaquin County,10.0
+Mariposa County,San Luis Obispo County,9.0
+Mariposa County,Santa Clara County,77.0
+Mariposa County,Sonoma County,101.0
+Mariposa County,Stanislaus County,147.0
+Mariposa County,Tehama County,7.0
+Mariposa County,Tuolumne County,366.0
+Mendocino County,Alameda County,62.0
+Mendocino County,Butte County,14.0
+Mendocino County,Contra Costa County,17.0
+Mendocino County,Humboldt County,85.0
+Mendocino County,Lake County,283.0
+Mendocino County,Marin County,58.0
+Mendocino County,Mendocino County,33599.0
+Mendocino County,Orange County,39.0
+Mendocino County,Placer County,2.0
+Mendocino County,Sacramento County,31.0
+Mendocino County,San Francisco County,105.0
+Mendocino County,San Mateo County,61.0
+Mendocino County,Santa Clara County,11.0
+Mendocino County,Siskiyou County,3.0
+Mendocino County,Sonoma County,1629.0
+Merced County,Alameda County,924.0
+Merced County,Contra Costa County,252.0
+Merced County,El Dorado County,9.0
+Merced County,Fresno County,1551.0
+Merced County,Humboldt County,40.0
+Merced County,Kern County,89.0
+Merced County,Kings County,48.0
+Merced County,Lake County,6.0
+Merced County,Los Angeles County,105.0
+Merced County,Madera County,1228.0
+Merced County,Marin County,41.0
+Merced County,Mariposa County,269.0
+Merced County,Merced County,71769.0
+Merced County,Monterey County,207.0
+Merced County,Napa County,6.0
+Merced County,Orange County,57.0
+Merced County,Placer County,28.0
+Merced County,Plumas County,12.0
+Merced County,Sacramento County,273.0
+Merced County,San Benito County,658.0
+Merced County,San Bernardino County,15.0
+Merced County,San Francisco County,742.0
+Merced County,San Joaquin County,2018.0
+Merced County,San Luis Obispo County,48.0
+Merced County,San Mateo County,539.0
+Merced County,Santa Clara County,5377.0
+Merced County,Santa Cruz County,116.0
+Merced County,Shasta County,31.0
+Merced County,Solano County,56.0
+Merced County,Sonoma County,122.0
+Merced County,Stanislaus County,15377.0
+Merced County,Sutter County,14.0
+Merced County,Tulare County,63.0
+Merced County,Tuolumne County,107.0
+Merced County,Ventura County,35.0
+Merced County,Yolo County,16.0
+Modoc County,Lassen County,53.0
+Modoc County,Modoc County,2635.0
+Modoc County,Shasta County,89.0
+Modoc County,Siskiyou County,110.0
+Modoc County,Yolo County,16.0
+Mono County,Alameda County,16.0
+Mono County,El Dorado County,64.0
+Mono County,Inyo County,561.0
+Mono County,Kings County,29.0
+Mono County,Los Angeles County,5.0
+Mono County,Mono County,7112.0
+Mono County,San Bernardino County,22.0
+Mono County,San Diego County,18.0
+Mono County,Santa Barbara County,26.0
+Monterey County,Alameda County,655.0
+Monterey County,Butte County,9.0
+Monterey County,Contra Costa County,133.0
+Monterey County,Fresno County,92.0
+Monterey County,Humboldt County,4.0
+Monterey County,Kern County,18.0
+Monterey County,Los Angeles County,141.0
+Monterey County,Marin County,6.0
+Monterey County,Monterey County,166744.0
+Monterey County,Napa County,11.0
+Monterey County,Orange County,13.0
+Monterey County,Riverside County,31.0
+Monterey County,Sacramento County,113.0
+Monterey County,San Benito County,1805.0
+Monterey County,San Bernardino County,57.0
+Monterey County,San Francisco County,520.0
+Monterey County,San Joaquin County,65.0
+Monterey County,San Luis Obispo County,1043.0
+Monterey County,San Mateo County,483.0
+Monterey County,Santa Barbara County,95.0
+Monterey County,Santa Clara County,6726.0
+Monterey County,Santa Cruz County,10252.0
+Monterey County,Shasta County,1.0
+Monterey County,Solano County,25.0
+Monterey County,Sonoma County,20.0
+Monterey County,Stanislaus County,19.0
+Monterey County,Tulare County,42.0
+Monterey County,Ventura County,38.0
+Monterey County,Yolo County,11.0
+Monterey County,Yuba County,12.0
+Napa County,Alameda County,1020.0
+Napa County,Butte County,56.0
+Napa County,Contra Costa County,1496.0
+Napa County,Lake County,45.0
+Napa County,Los Angeles County,39.0
+Napa County,Madera County,8.0
+Napa County,Marin County,1166.0
+Napa County,Mariposa County,62.0
+Napa County,Monterey County,9.0
+Napa County,Napa County,54465.0
+Napa County,Nevada County,11.0
+Napa County,Orange County,27.0
+Napa County,Placer County,31.0
+Napa County,Riverside County,13.0
+Napa County,Sacramento County,295.0
+Napa County,San Diego County,44.0
+Napa County,San Francisco County,1503.0
+Napa County,San Joaquin County,29.0
+Napa County,San Mateo County,613.0
+Napa County,Santa Barbara County,5.0
+Napa County,Santa Clara County,230.0
+Napa County,Solano County,4737.0
+Napa County,Sonoma County,3035.0
+Napa County,Stanislaus County,11.0
+Napa County,Yolo County,114.0
+Nevada County,Alameda County,174.0
+Nevada County,Alpine County,21.0
+Nevada County,Amador County,16.0
+Nevada County,Butte County,87.0
+Nevada County,Contra Costa County,239.0
+Nevada County,El Dorado County,151.0
+Nevada County,Fresno County,31.0
+Nevada County,Inyo County,14.0
+Nevada County,Los Angeles County,52.0
+Nevada County,Marin County,41.0
+Nevada County,Mendocino County,14.0
+Nevada County,Monterey County,21.0
+Nevada County,Napa County,34.0
+Nevada County,Nevada County,32842.0
+Nevada County,Orange County,15.0
+Nevada County,Placer County,6335.0
+Nevada County,Plumas County,28.0
+Nevada County,Sacramento County,1151.0
+Nevada County,San Francisco County,140.0
+Nevada County,San Joaquin County,59.0
+Nevada County,San Mateo County,165.0
+Nevada County,Santa Barbara County,10.0
+Nevada County,Santa Clara County,442.0
+Nevada County,Sierra County,14.0
+Nevada County,Solano County,15.0
+Nevada County,Sonoma County,22.0
+Nevada County,Sutter County,107.0
+Nevada County,Tehama County,21.0
+Nevada County,Tuolumne County,8.0
+Nevada County,Ventura County,7.0
+Nevada County,Yolo County,37.0
+Nevada County,Yuba County,516.0
+Orange County,Alameda County,197.0
+Orange County,Butte County,15.0
+Orange County,Contra Costa County,39.0
+Orange County,Fresno County,199.0
+Orange County,Imperial County,50.0
+Orange County,Kern County,352.0
+Orange County,Kings County,6.0
+Orange County,Lake County,18.0
+Orange County,Los Angeles County,180250.0
+Orange County,Marin County,37.0
+Orange County,Mariposa County,8.0
+Orange County,Mendocino County,23.0
+Orange County,Monterey County,21.0
+Orange County,Napa County,19.0
+Orange County,Orange County,1325458.0
+Orange County,Placer County,47.0
+Orange County,Riverside County,16208.0
+Orange County,Sacramento County,173.0
+Orange County,San Bernardino County,12934.0
+Orange County,San Diego County,12094.0
+Orange County,San Francisco County,487.0
+Orange County,San Joaquin County,54.0
+Orange County,San Luis Obispo County,131.0
+Orange County,San Mateo County,519.0
+Orange County,Santa Barbara County,438.0
+Orange County,Santa Clara County,1152.0
+Orange County,Santa Cruz County,30.0
+Orange County,Shasta County,9.0
+Orange County,Solano County,67.0
+Orange County,Sonoma County,42.0
+Orange County,Stanislaus County,69.0
+Orange County,Tulare County,60.0
+Orange County,Ventura County,605.0
+Orange County,Yuba County,10.0
+Placer County,Alameda County,648.0
+Placer County,Amador County,59.0
+Placer County,Butte County,168.0
+Placer County,Colusa County,45.0
+Placer County,Contra Costa County,738.0
+Placer County,El Dorado County,1311.0
+Placer County,Fresno County,137.0
+Placer County,Glenn County,9.0
+Placer County,Humboldt County,18.0
+Placer County,Imperial County,17.0
+Placer County,Kern County,34.0
+Placer County,Lassen County,20.0
+Placer County,Los Angeles County,111.0
+Placer County,Madera County,15.0
+Placer County,Marin County,240.0
+Placer County,Mendocino County,19.0
+Placer County,Merced County,31.0
+Placer County,Monterey County,14.0
+Placer County,Napa County,434.0
+Placer County,Nevada County,2638.0
+Placer County,Orange County,48.0
+Placer County,Placer County,116983.0
+Placer County,Plumas County,9.0
+Placer County,Sacramento County,44869.0
+Placer County,San Bernardino County,25.0
+Placer County,San Diego County,99.0
+Placer County,San Francisco County,727.0
+Placer County,San Joaquin County,448.0
+Placer County,San Luis Obispo County,39.0
+Placer County,San Mateo County,813.0
+Placer County,Santa Barbara County,31.0
+Placer County,Santa Clara County,764.0
+Placer County,Santa Cruz County,41.0
+Placer County,Shasta County,41.0
+Placer County,Solano County,881.0
+Placer County,Sonoma County,233.0
+Placer County,Stanislaus County,83.0
+Placer County,Sutter County,769.0
+Placer County,Tehama County,13.0
+Placer County,Tuolumne County,6.0
+Placer County,Ventura County,22.0
+Placer County,Yolo County,2960.0
+Placer County,Yuba County,1898.0
+Plumas County,Butte County,39.0
+Plumas County,Colusa County,4.0
+Plumas County,Contra Costa County,6.0
+Plumas County,El Dorado County,12.0
+Plumas County,Lassen County,158.0
+Plumas County,Napa County,100.0
+Plumas County,Nevada County,63.0
+Plumas County,Plumas County,6616.0
+Plumas County,Sacramento County,14.0
+Plumas County,San Francisco County,15.0
+Plumas County,Santa Barbara County,16.0
+Plumas County,Santa Clara County,10.0
+Plumas County,Sierra County,36.0
+Plumas County,Solano County,9.0
+Plumas County,Tehama County,22.0
+Riverside County,Alameda County,174.0
+Riverside County,Butte County,24.0
+Riverside County,Contra Costa County,82.0
+Riverside County,Fresno County,109.0
+Riverside County,Humboldt County,17.0
+Riverside County,Imperial County,390.0
+Riverside County,Inyo County,27.0
+Riverside County,Kern County,381.0
+Riverside County,Los Angeles County,53172.0
+Riverside County,Marin County,13.0
+Riverside County,Mariposa County,11.0
+Riverside County,Merced County,73.0
+Riverside County,Monterey County,230.0
+Riverside County,Napa County,37.0
+Riverside County,Nevada County,10.0
+Riverside County,Orange County,75863.0
+Riverside County,Placer County,88.0
+Riverside County,Riverside County,725518.0
+Riverside County,Sacramento County,237.0
+Riverside County,San Benito County,76.0
+Riverside County,San Bernardino County,113716.0
+Riverside County,San Diego County,47073.0
+Riverside County,San Francisco County,321.0
+Riverside County,San Joaquin County,7.0
+Riverside County,San Luis Obispo County,175.0
+Riverside County,San Mateo County,130.0
+Riverside County,Santa Barbara County,124.0
+Riverside County,Santa Clara County,357.0
+Riverside County,Santa Cruz County,94.0
+Riverside County,Shasta County,5.0
+Riverside County,Solano County,20.0
+Riverside County,Sonoma County,100.0
+Riverside County,Stanislaus County,31.0
+Riverside County,Trinity County,56.0
+Riverside County,Tulare County,84.0
+Riverside County,Ventura County,824.0
+Riverside County,Yolo County,10.0
+Sacramento County,Alameda County,3965.0
+Sacramento County,Amador County,1139.0
+Sacramento County,Butte County,232.0
+Sacramento County,Calaveras County,168.0
+Sacramento County,Colusa County,170.0
+Sacramento County,Contra Costa County,2341.0
+Sacramento County,El Dorado County,9180.0
+Sacramento County,Fresno County,447.0
+Sacramento County,Glenn County,105.0
+Sacramento County,Humboldt County,32.0
+Sacramento County,Kern County,97.0
+Sacramento County,Lake County,46.0
+Sacramento County,Los Angeles County,578.0
+Sacramento County,Madera County,73.0
+Sacramento County,Marin County,436.0
+Sacramento County,Mariposa County,40.0
+Sacramento County,Mendocino County,155.0
+Sacramento County,Merced County,244.0
+Sacramento County,Monterey County,232.0
+Sacramento County,Napa County,713.0
+Sacramento County,Nevada County,324.0
+Sacramento County,Orange County,192.0
+Sacramento County,Placer County,46528.0
+Sacramento County,Riverside County,10.0
+Sacramento County,Sacramento County,563061.0
+Sacramento County,San Bernardino County,54.0
+Sacramento County,San Diego County,317.0
+Sacramento County,San Francisco County,3349.0
+Sacramento County,San Joaquin County,11070.0
+Sacramento County,San Luis Obispo County,23.0
+Sacramento County,San Mateo County,1705.0
+Sacramento County,Santa Barbara County,21.0
+Sacramento County,Santa Clara County,2576.0
+Sacramento County,Santa Cruz County,11.0
+Sacramento County,Shasta County,258.0
+Sacramento County,Sierra County,1.0
+Sacramento County,Solano County,7524.0
+Sacramento County,Sonoma County,867.0
+Sacramento County,Stanislaus County,1093.0
+Sacramento County,Sutter County,1098.0
+Sacramento County,Tehama County,27.0
+Sacramento County,Trinity County,52.0
+Sacramento County,Tulare County,49.0
+Sacramento County,Tuolumne County,31.0
+Sacramento County,Ventura County,29.0
+Sacramento County,Yolo County,34880.0
+Sacramento County,Yuba County,798.0
+San Benito County,Alameda County,309.0
+San Benito County,Contra Costa County,7.0
+San Benito County,Fresno County,19.0
+San Benito County,Humboldt County,3.0
+San Benito County,Kern County,19.0
+San Benito County,Madera County,24.0
+San Benito County,Marin County,13.0
+San Benito County,Monterey County,2298.0
+San Benito County,Orange County,21.0
+San Benito County,Placer County,20.0
+San Benito County,Sacramento County,10.0
+San Benito County,San Benito County,12993.0
+San Benito County,San Francisco County,51.0
+San Benito County,San Joaquin County,34.0
+San Benito County,San Luis Obispo County,18.0
+San Benito County,San Mateo County,249.0
+San Benito County,Santa Clara County,11285.0
+San Benito County,Santa Cruz County,1264.0
+San Benito County,Sonoma County,24.0
+San Benito County,Stanislaus County,4.0
+San Bernardino County,Alameda County,93.0
+San Bernardino County,Butte County,61.0
+San Bernardino County,Contra Costa County,42.0
+San Bernardino County,El Dorado County,108.0
+San Bernardino County,Fresno County,84.0
+San Bernardino County,Imperial County,71.0
+San Bernardino County,Inyo County,158.0
+San Bernardino County,Kern County,1391.0
+San Bernardino County,Kings County,65.0
+San Bernardino County,Lake County,36.0
+San Bernardino County,Los Angeles County,132992.0
+San Bernardino County,Mendocino County,24.0
+San Bernardino County,Merced County,45.0
+San Bernardino County,Monterey County,13.0
+San Bernardino County,Orange County,37327.0
+San Bernardino County,Riverside County,78508.0
+San Bernardino County,Sacramento County,40.0
+San Bernardino County,San Benito County,10.0
+San Bernardino County,San Bernardino County,657249.0
+San Bernardino County,San Diego County,2796.0
+San Bernardino County,San Francisco County,135.0
+San Bernardino County,San Joaquin County,28.0
+San Bernardino County,San Mateo County,148.0
+San Bernardino County,Santa Barbara County,300.0
+San Bernardino County,Santa Clara County,335.0
+San Bernardino County,Santa Cruz County,10.0
+San Bernardino County,Shasta County,43.0
+San Bernardino County,Stanislaus County,32.0
+San Bernardino County,Tulare County,70.0
+San Bernardino County,Ventura County,512.0
+San Bernardino County,Yolo County,53.0
+San Diego County,Alameda County,329.0
+San Diego County,Alpine County,37.0
+San Diego County,Amador County,33.0
+San Diego County,Butte County,11.0
+San Diego County,Contra Costa County,166.0
+San Diego County,El Dorado County,12.0
+San Diego County,Fresno County,68.0
+San Diego County,Imperial County,698.0
+San Diego County,Inyo County,101.0
+San Diego County,Kern County,101.0
+San Diego County,Kings County,30.0
+San Diego County,Lake County,12.0
+San Diego County,Lassen County,8.0
+San Diego County,Los Angeles County,6075.0
+San Diego County,Madera County,14.0
+San Diego County,Marin County,54.0
+San Diego County,Mendocino County,65.0
+San Diego County,Merced County,6.0
+San Diego County,Mono County,13.0
+San Diego County,Monterey County,344.0
+San Diego County,Napa County,96.0
+San Diego County,Nevada County,26.0
+San Diego County,Orange County,12120.0
+San Diego County,Riverside County,6989.0
+San Diego County,Sacramento County,229.0
+San Diego County,San Bernardino County,1209.0
+San Diego County,San Diego County,1588755.0
+San Diego County,San Francisco County,274.0
+San Diego County,San Joaquin County,8.0
+San Diego County,San Luis Obispo County,137.0
+San Diego County,San Mateo County,418.0
+San Diego County,Santa Barbara County,200.0
+San Diego County,Santa Clara County,688.0
+San Diego County,Santa Cruz County,6.0
+San Diego County,Sonoma County,119.0
+San Diego County,Sutter County,18.0
+San Diego County,Ventura County,295.0
+San Diego County,Yolo County,5.0
+San Francisco County,Alameda County,20023.0
+San Francisco County,Butte County,33.0
+San Francisco County,Contra Costa County,3173.0
+San Francisco County,Fresno County,12.0
+San Francisco County,Los Angeles County,665.0
+San Francisco County,Marin County,5069.0
+San Francisco County,Monterey County,53.0
+San Francisco County,Napa County,200.0
+San Francisco County,Orange County,43.0
+San Francisco County,Placer County,87.0
+San Francisco County,Sacramento County,161.0
+San Francisco County,San Benito County,46.0
+San Francisco County,San Diego County,153.0
+San Francisco County,San Francisco County,401556.0
+San Francisco County,San Joaquin County,49.0
+San Francisco County,San Luis Obispo County,13.0
+San Francisco County,San Mateo County,47004.0
+San Francisco County,Santa Clara County,27082.0
+San Francisco County,Santa Cruz County,244.0
+San Francisco County,Solano County,677.0
+San Francisco County,Sonoma County,901.0
+San Francisco County,Stanislaus County,130.0
+San Francisco County,Ventura County,6.0
+San Francisco County,Yolo County,43.0
+San Joaquin County,Alameda County,34088.0
+San Joaquin County,Alpine County,11.0
+San Joaquin County,Amador County,406.0
+San Joaquin County,Butte County,125.0
+San Joaquin County,Calaveras County,220.0
+San Joaquin County,Colusa County,5.0
+San Joaquin County,Contra Costa County,7321.0
+San Joaquin County,El Dorado County,210.0
+San Joaquin County,Fresno County,295.0
+San Joaquin County,Humboldt County,34.0
+San Joaquin County,Kern County,12.0
+San Joaquin County,Lake County,8.0
+San Joaquin County,Los Angeles County,507.0
+San Joaquin County,Madera County,24.0
+San Joaquin County,Marin County,253.0
+San Joaquin County,Mariposa County,68.0
+San Joaquin County,Mendocino County,15.0
+San Joaquin County,Merced County,532.0
+San Joaquin County,Monterey County,138.0
+San Joaquin County,Napa County,151.0
+San Joaquin County,Nevada County,28.0
+San Joaquin County,Orange County,35.0
+San Joaquin County,Placer County,233.0
+San Joaquin County,Riverside County,47.0
+San Joaquin County,Sacramento County,9847.0
+San Joaquin County,San Benito County,32.0
+San Joaquin County,San Bernardino County,99.0
+San Joaquin County,San Francisco County,3673.0
+San Joaquin County,San Joaquin County,218421.0
+San Joaquin County,San Luis Obispo County,39.0
+San Joaquin County,San Mateo County,3220.0
+San Joaquin County,Santa Clara County,11303.0
+San Joaquin County,Santa Cruz County,257.0
+San Joaquin County,Shasta County,24.0
+San Joaquin County,Sierra County,44.0
+San Joaquin County,Solano County,1225.0
+San Joaquin County,Sonoma County,91.0
+San Joaquin County,Stanislaus County,12233.0
+San Joaquin County,Sutter County,44.0
+San Joaquin County,Tulare County,166.0
+San Joaquin County,Tuolumne County,231.0
+San Joaquin County,Yolo County,762.0
+San Joaquin County,Yuba County,57.0
+San Luis Obispo County,Alameda County,80.0
+San Luis Obispo County,Amador County,18.0
+San Luis Obispo County,Contra Costa County,19.0
+San Luis Obispo County,Fresno County,456.0
+San Luis Obispo County,Kern County,531.0
+San Luis Obispo County,Kings County,106.0
+San Luis Obispo County,Los Angeles County,682.0
+San Luis Obispo County,Marin County,17.0
+San Luis Obispo County,Mariposa County,44.0
+San Luis Obispo County,Monterey County,1098.0
+San Luis Obispo County,Orange County,145.0
+San Luis Obispo County,Placer County,7.0
+San Luis Obispo County,Riverside County,11.0
+San Luis Obispo County,Sacramento County,61.0
+San Luis Obispo County,San Benito County,31.0
+San Luis Obispo County,San Bernardino County,25.0
+San Luis Obispo County,San Diego County,83.0
+San Luis Obispo County,San Francisco County,114.0
+San Luis Obispo County,San Joaquin County,17.0
+San Luis Obispo County,San Luis Obispo County,117260.0
+San Luis Obispo County,San Mateo County,78.0
+San Luis Obispo County,Santa Barbara County,8122.0
+San Luis Obispo County,Santa Clara County,464.0
+San Luis Obispo County,Santa Cruz County,7.0
+San Luis Obispo County,Tulare County,78.0
+San Luis Obispo County,Tuolumne County,20.0
+San Luis Obispo County,Ventura County,166.0
+San Mateo County,Alameda County,12752.0
+San Mateo County,Amador County,17.0
+San Mateo County,Contra Costa County,2069.0
+San Mateo County,Fresno County,21.0
+San Mateo County,Humboldt County,3.0
+San Mateo County,Lake County,10.0
+San Mateo County,Los Angeles County,441.0
+San Mateo County,Marin County,1108.0
+San Mateo County,Monterey County,11.0
+San Mateo County,Napa County,149.0
+San Mateo County,Nevada County,16.0
+San Mateo County,Orange County,79.0
+San Mateo County,Placer County,21.0
+San Mateo County,Plumas County,31.0
+San Mateo County,Riverside County,12.0
+San Mateo County,Sacramento County,99.0
+San Mateo County,San Bernardino County,71.0
+San Mateo County,San Diego County,89.0
+San Mateo County,San Francisco County,82560.0
+San Mateo County,San Joaquin County,85.0
+San Mateo County,San Luis Obispo County,4.0
+San Mateo County,San Mateo County,241163.0
+San Mateo County,Santa Barbara County,19.0
+San Mateo County,Santa Clara County,61675.0
+San Mateo County,Santa Cruz County,319.0
+San Mateo County,Shasta County,15.0
+San Mateo County,Solano County,52.0
+San Mateo County,Sonoma County,346.0
+San Mateo County,Stanislaus County,44.0
+San Mateo County,Sutter County,14.0
+San Mateo County,Tehama County,32.0
+San Mateo County,Tulare County,24.0
+San Mateo County,Ventura County,26.0
+San Mateo County,Yolo County,53.0
+Santa Barbara County,Alameda County,36.0
+Santa Barbara County,Contra Costa County,21.0
+Santa Barbara County,Fresno County,42.0
+Santa Barbara County,Kern County,90.0
+Santa Barbara County,Los Angeles County,1478.0
+Santa Barbara County,Marin County,17.0
+Santa Barbara County,Monterey County,94.0
+Santa Barbara County,Napa County,7.0
+Santa Barbara County,Orange County,172.0
+Santa Barbara County,Placer County,9.0
+Santa Barbara County,Riverside County,20.0
+Santa Barbara County,Sacramento County,47.0
+Santa Barbara County,San Bernardino County,35.0
+Santa Barbara County,San Diego County,40.0
+Santa Barbara County,San Francisco County,63.0
+Santa Barbara County,San Luis Obispo County,8871.0
+Santa Barbara County,San Mateo County,36.0
+Santa Barbara County,Santa Barbara County,194424.0
+Santa Barbara County,Santa Clara County,120.0
+Santa Barbara County,Santa Cruz County,52.0
+Santa Barbara County,Ventura County,2303.0
+Santa Clara County,Alameda County,40507.0
+Santa Clara County,Amador County,7.0
+Santa Clara County,Calaveras County,21.0
+Santa Clara County,Contra Costa County,2306.0
+Santa Clara County,El Dorado County,18.0
+Santa Clara County,Fresno County,62.0
+Santa Clara County,Humboldt County,14.0
+Santa Clara County,Kern County,50.0
+Santa Clara County,Kings County,46.0
+Santa Clara County,Lake County,6.0
+Santa Clara County,Los Angeles County,589.0
+Santa Clara County,Madera County,13.0
+Santa Clara County,Marin County,275.0
+Santa Clara County,Merced County,135.0
+Santa Clara County,Monterey County,2217.0
+Santa Clara County,Napa County,79.0
+Santa Clara County,Nevada County,23.0
+Santa Clara County,Orange County,172.0
+Santa Clara County,Placer County,134.0
+Santa Clara County,Riverside County,36.0
+Santa Clara County,Sacramento County,238.0
+Santa Clara County,San Benito County,939.0
+Santa Clara County,San Bernardino County,241.0
+Santa Clara County,San Diego County,306.0
+Santa Clara County,San Francisco County,19213.0
+Santa Clara County,San Joaquin County,429.0
+Santa Clara County,San Luis Obispo County,96.0
+Santa Clara County,San Mateo County,47800.0
+Santa Clara County,Santa Barbara County,37.0
+Santa Clara County,Santa Clara County,848216.0
+Santa Clara County,Santa Cruz County,4052.0
+Santa Clara County,Siskiyou County,3.0
+Santa Clara County,Solano County,209.0
+Santa Clara County,Sonoma County,282.0
+Santa Clara County,Stanislaus County,173.0
+Santa Clara County,Tehama County,27.0
+Santa Clara County,Tulare County,8.0
+Santa Clara County,Tuolumne County,7.0
+Santa Clara County,Ventura County,94.0
+Santa Clara County,Yolo County,312.0
+Santa Cruz County,Alameda County,926.0
+Santa Cruz County,Butte County,17.0
+Santa Cruz County,Contra Costa County,49.0
+Santa Cruz County,Fresno County,202.0
+Santa Cruz County,Los Angeles County,52.0
+Santa Cruz County,Marin County,36.0
+Santa Cruz County,Monterey County,6078.0
+Santa Cruz County,Napa County,18.0
+Santa Cruz County,Nevada County,16.0
+Santa Cruz County,Orange County,31.0
+Santa Cruz County,Placer County,29.0
+Santa Cruz County,Plumas County,63.0
+Santa Cruz County,Riverside County,9.0
+Santa Cruz County,Sacramento County,216.0
+Santa Cruz County,San Benito County,552.0
+Santa Cruz County,San Diego County,14.0
+Santa Cruz County,San Francisco County,830.0
+Santa Cruz County,San Joaquin County,114.0
+Santa Cruz County,San Luis Obispo County,11.0
+Santa Cruz County,San Mateo County,1765.0
+Santa Cruz County,Santa Barbara County,119.0
+Santa Cruz County,Santa Clara County,17622.0
+Santa Cruz County,Santa Cruz County,103431.0
+Santa Cruz County,Solano County,25.0
+Santa Cruz County,Sonoma County,96.0
+Santa Cruz County,Stanislaus County,56.0
+Santa Cruz County,Tulare County,102.0
+Santa Cruz County,Ventura County,7.0
+Santa Cruz County,Yolo County,49.0
+Shasta County,Alameda County,45.0
+Shasta County,Butte County,433.0
+Shasta County,Colusa County,50.0
+Shasta County,Contra Costa County,26.0
+Shasta County,Del Norte County,63.0
+Shasta County,El Dorado County,26.0
+Shasta County,Fresno County,15.0
+Shasta County,Glenn County,22.0
+Shasta County,Humboldt County,164.0
+Shasta County,Lake County,37.0
+Shasta County,Lassen County,164.0
+Shasta County,Los Angeles County,28.0
+Shasta County,Madera County,9.0
+Shasta County,Marin County,7.0
+Shasta County,Mendocino County,81.0
+Shasta County,Modoc County,39.0
+Shasta County,Monterey County,36.0
+Shasta County,Napa County,76.0
+Shasta County,Plumas County,43.0
+Shasta County,Sacramento County,245.0
+Shasta County,San Francisco County,120.0
+Shasta County,San Joaquin County,80.0
+Shasta County,San Mateo County,95.0
+Shasta County,Santa Barbara County,35.0
+Shasta County,Santa Clara County,101.0
+Shasta County,Santa Cruz County,19.0
+Shasta County,Shasta County,67113.0
+Shasta County,Siskiyou County,437.0
+Shasta County,Solano County,35.0
+Shasta County,Sonoma County,48.0
+Shasta County,Sutter County,34.0
+Shasta County,Tehama County,1856.0
+Shasta County,Trinity County,361.0
+Shasta County,Yolo County,32.0
+Shasta County,Yuba County,44.0
+Sierra County,Alameda County,24.0
+Sierra County,Lassen County,16.0
+Sierra County,Nevada County,51.0
+Sierra County,Placer County,75.0
+Sierra County,Plumas County,164.0
+Sierra County,San Francisco County,9.0
+Sierra County,San Mateo County,14.0
+Sierra County,Sierra County,764.0
+Sierra County,Sonoma County,8.0
+Siskiyou County,Alameda County,7.0
+Siskiyou County,Butte County,18.0
+Siskiyou County,Colusa County,2.0
+Siskiyou County,Contra Costa County,11.0
+Siskiyou County,Fresno County,13.0
+Siskiyou County,Humboldt County,37.0
+Siskiyou County,Lassen County,6.0
+Siskiyou County,Mendocino County,8.0
+Siskiyou County,Modoc County,29.0
+Siskiyou County,Monterey County,7.0
+Siskiyou County,Napa County,19.0
+Siskiyou County,Placer County,30.0
+Siskiyou County,Riverside County,1.0
+Siskiyou County,Sacramento County,108.0
+Siskiyou County,San Francisco County,3.0
+Siskiyou County,San Mateo County,19.0
+Siskiyou County,Santa Clara County,3.0
+Siskiyou County,Shasta County,314.0
+Siskiyou County,Siskiyou County,14974.0
+Siskiyou County,Sonoma County,11.0
+Siskiyou County,Sutter County,8.0
+Siskiyou County,Tehama County,19.0
+Siskiyou County,Trinity County,2.0
+Siskiyou County,Tulare County,4.0
+Siskiyou County,Ventura County,7.0
+Solano County,Alameda County,12117.0
+Solano County,Butte County,6.0
+Solano County,Colusa County,49.0
+Solano County,Contra Costa County,22164.0
+Solano County,Del Norte County,12.0
+Solano County,El Dorado County,167.0
+Solano County,Fresno County,37.0
+Solano County,Kern County,15.0
+Solano County,Kings County,7.0
+Solano County,Lake County,37.0
+Solano County,Los Angeles County,151.0
+Solano County,Madera County,11.0
+Solano County,Marin County,5558.0
+Solano County,Mendocino County,41.0
+Solano County,Monterey County,31.0
+Solano County,Napa County,13163.0
+Solano County,Orange County,8.0
+Solano County,Placer County,524.0
+Solano County,Plumas County,7.0
+Solano County,Riverside County,8.0
+Solano County,Sacramento County,5384.0
+Solano County,San Bernardino County,82.0
+Solano County,San Diego County,166.0
+Solano County,San Francisco County,11529.0
+Solano County,San Joaquin County,444.0
+Solano County,San Luis Obispo County,10.0
+Solano County,San Mateo County,3078.0
+Solano County,Santa Clara County,2124.0
+Solano County,Santa Cruz County,8.0
+Solano County,Shasta County,15.0
+Solano County,Solano County,121957.0
+Solano County,Sonoma County,2837.0
+Solano County,Stanislaus County,62.0
+Solano County,Sutter County,20.0
+Solano County,Tehama County,31.0
+Solano County,Trinity County,10.0
+Solano County,Tulare County,31.0
+Solano County,Ventura County,12.0
+Solano County,Yolo County,4892.0
+Solano County,Yuba County,45.0
+Sonoma County,Alameda County,1682.0
+Sonoma County,Calaveras County,20.0
+Sonoma County,Contra Costa County,1112.0
+Sonoma County,Del Norte County,18.0
+Sonoma County,Fresno County,34.0
+Sonoma County,Humboldt County,23.0
+Sonoma County,Lake County,274.0
+Sonoma County,Los Angeles County,44.0
+Sonoma County,Marin County,14705.0
+Sonoma County,Mendocino County,1176.0
+Sonoma County,Merced County,101.0
+Sonoma County,Monterey County,16.0
+Sonoma County,Napa County,4993.0
+Sonoma County,Orange County,112.0
+Sonoma County,Placer County,10.0
+Sonoma County,Sacramento County,159.0
+Sonoma County,San Francisco County,7187.0
+Sonoma County,San Joaquin County,152.0
+Sonoma County,San Luis Obispo County,10.0
+Sonoma County,San Mateo County,1209.0
+Sonoma County,Santa Barbara County,4.0
+Sonoma County,Santa Clara County,913.0
+Sonoma County,Santa Cruz County,51.0
+Sonoma County,Solano County,864.0
+Sonoma County,Sonoma County,211846.0
+Sonoma County,Stanislaus County,14.0
+Sonoma County,Yolo County,136.0
+Stanislaus County,Alameda County,9787.0
+Stanislaus County,Amador County,127.0
+Stanislaus County,Butte County,158.0
+Stanislaus County,Calaveras County,227.0
+Stanislaus County,Contra Costa County,1368.0
+Stanislaus County,El Dorado County,70.0
+Stanislaus County,Fresno County,568.0
+Stanislaus County,Imperial County,1.0
+Stanislaus County,Kern County,42.0
+Stanislaus County,Lake County,10.0
+Stanislaus County,Los Angeles County,249.0
+Stanislaus County,Madera County,302.0
+Stanislaus County,Marin County,67.0
+Stanislaus County,Mariposa County,63.0
+Stanislaus County,Mendocino County,17.0
+Stanislaus County,Merced County,7184.0
+Stanislaus County,Monterey County,255.0
+Stanislaus County,Napa County,117.0
+Stanislaus County,Orange County,22.0
+Stanislaus County,Placer County,71.0
+Stanislaus County,Riverside County,7.0
+Stanislaus County,Sacramento County,1137.0
+Stanislaus County,San Benito County,43.0
+Stanislaus County,San Bernardino County,38.0
+Stanislaus County,San Diego County,65.0
+Stanislaus County,San Francisco County,1407.0
+Stanislaus County,San Joaquin County,27196.0
+Stanislaus County,San Luis Obispo County,82.0
+Stanislaus County,San Mateo County,1632.0
+Stanislaus County,Santa Clara County,4367.0
+Stanislaus County,Santa Cruz County,156.0
+Stanislaus County,Shasta County,20.0
+Stanislaus County,Solano County,303.0
+Stanislaus County,Sonoma County,24.0
+Stanislaus County,Stanislaus County,164030.0
+Stanislaus County,Sutter County,53.0
+Stanislaus County,Tulare County,34.0
+Stanislaus County,Tuolumne County,1469.0
+Stanislaus County,Yolo County,195.0
+Sutter County,Alameda County,193.0
+Sutter County,Amador County,22.0
+Sutter County,Butte County,2388.0
+Sutter County,Colusa County,949.0
+Sutter County,Contra Costa County,104.0
+Sutter County,El Dorado County,13.0
+Sutter County,Glenn County,75.0
+Sutter County,Humboldt County,21.0
+Sutter County,Kings County,23.0
+Sutter County,Lake County,37.0
+Sutter County,Lassen County,17.0
+Sutter County,Los Angeles County,49.0
+Sutter County,Mendocino County,18.0
+Sutter County,Napa County,250.0
+Sutter County,Nevada County,144.0
+Sutter County,Orange County,6.0
+Sutter County,Placer County,1722.0
+Sutter County,Riverside County,2.0
+Sutter County,Sacramento County,2489.0
+Sutter County,San Francisco County,98.0
+Sutter County,San Joaquin County,47.0
+Sutter County,San Mateo County,40.0
+Sutter County,Santa Clara County,72.0
+Sutter County,Shasta County,26.0
+Sutter County,Sierra County,16.0
+Sutter County,Solano County,182.0
+Sutter County,Sonoma County,36.0
+Sutter County,Sutter County,21834.0
+Sutter County,Tehama County,55.0
+Sutter County,Trinity County,5.0
+Sutter County,Yolo County,2354.0
+Sutter County,Yuba County,6465.0
+Tehama County,Alameda County,81.0
+Tehama County,Butte County,1688.0
+Tehama County,Colusa County,34.0
+Tehama County,Contra Costa County,59.0
+Tehama County,Glenn County,748.0
+Tehama County,Humboldt County,25.0
+Tehama County,Lake County,49.0
+Tehama County,Lassen County,46.0
+Tehama County,Madera County,5.0
+Tehama County,Monterey County,16.0
+Tehama County,Napa County,3.0
+Tehama County,Placer County,97.0
+Tehama County,Plumas County,69.0
+Tehama County,Sacramento County,6.0
+Tehama County,San Bernardino County,10.0
+Tehama County,San Diego County,14.0
+Tehama County,San Mateo County,9.0
+Tehama County,Santa Clara County,45.0
+Tehama County,Shasta County,3020.0
+Tehama County,Siskiyou County,63.0
+Tehama County,Solano County,58.0
+Tehama County,Sonoma County,67.0
+Tehama County,Tehama County,17704.0
+Tehama County,Trinity County,7.0
+Tehama County,Yolo County,17.0
+Tehama County,Yuba County,10.0
+Trinity County,Amador County,13.0
+Trinity County,Humboldt County,96.0
+Trinity County,San Mateo County,24.0
+Trinity County,Santa Clara County,22.0
+Trinity County,Shasta County,217.0
+Trinity County,Sonoma County,19.0
+Trinity County,Tehama County,26.0
+Trinity County,Trinity County,3608.0
+Tulare County,Alameda County,203.0
+Tulare County,Calaveras County,38.0
+Tulare County,Contra Costa County,2.0
+Tulare County,Fresno County,11557.0
+Tulare County,Kern County,7497.0
+Tulare County,Kings County,6813.0
+Tulare County,Los Angeles County,366.0
+Tulare County,Madera County,217.0
+Tulare County,Merced County,151.0
+Tulare County,Monterey County,77.0
+Tulare County,Nevada County,5.0
+Tulare County,Orange County,104.0
+Tulare County,Plumas County,27.0
+Tulare County,Riverside County,73.0
+Tulare County,Sacramento County,105.0
+Tulare County,San Benito County,5.0
+Tulare County,San Bernardino County,124.0
+Tulare County,San Diego County,162.0
+Tulare County,San Francisco County,37.0
+Tulare County,San Joaquin County,144.0
+Tulare County,San Luis Obispo County,86.0
+Tulare County,San Mateo County,28.0
+Tulare County,Santa Clara County,141.0
+Tulare County,Solano County,16.0
+Tulare County,Sonoma County,39.0
+Tulare County,Stanislaus County,115.0
+Tulare County,Tulare County,150314.0
+Tulare County,Ventura County,35.0
+Tulare County,Yolo County,7.0
+Tuolumne County,Alameda County,183.0
+Tuolumne County,Amador County,46.0
+Tuolumne County,Butte County,25.0
+Tuolumne County,Calaveras County,474.0
+Tuolumne County,Contra Costa County,77.0
+Tuolumne County,Kings County,5.0
+Tuolumne County,Madera County,71.0
+Tuolumne County,Marin County,57.0
+Tuolumne County,Mariposa County,105.0
+Tuolumne County,Merced County,261.0
+Tuolumne County,Monterey County,39.0
+Tuolumne County,Napa County,8.0
+Tuolumne County,Nevada County,14.0
+Tuolumne County,Placer County,60.0
+Tuolumne County,Sacramento County,20.0
+Tuolumne County,San Benito County,46.0
+Tuolumne County,San Francisco County,75.0
+Tuolumne County,San Joaquin County,258.0
+Tuolumne County,San Luis Obispo County,35.0
+Tuolumne County,San Mateo County,75.0
+Tuolumne County,Santa Barbara County,17.0
+Tuolumne County,Santa Clara County,294.0
+Tuolumne County,Santa Cruz County,9.0
+Tuolumne County,Solano County,20.0
+Tuolumne County,Sonoma County,7.0
+Tuolumne County,Stanislaus County,1044.0
+Tuolumne County,Tuolumne County,16620.0
+Ventura County,Alameda County,100.0
+Ventura County,Contra Costa County,19.0
+Ventura County,Fresno County,20.0
+Ventura County,Humboldt County,5.0
+Ventura County,Imperial County,22.0
+Ventura County,Kern County,258.0
+Ventura County,Kings County,7.0
+Ventura County,Los Angeles County,66180.0
+Ventura County,Monterey County,51.0
+Ventura County,Orange County,576.0
+Ventura County,Riverside County,177.0
+Ventura County,Sacramento County,4.0
+Ventura County,San Bernardino County,586.0
+Ventura County,San Diego County,333.0
+Ventura County,San Francisco County,171.0
+Ventura County,San Luis Obispo County,125.0
+Ventura County,San Mateo County,9.0
+Ventura County,Santa Barbara County,12325.0
+Ventura County,Santa Clara County,207.0
+Ventura County,Sonoma County,32.0
+Ventura County,Tulare County,49.0
+Ventura County,Ventura County,321696.0
+Yolo County,Alameda County,642.0
+Yolo County,Amador County,11.0
+Yolo County,Butte County,46.0
+Yolo County,Colusa County,414.0
+Yolo County,Contra Costa County,536.0
+Yolo County,El Dorado County,54.0
+Yolo County,Fresno County,46.0
+Yolo County,Glenn County,72.0
+Yolo County,Kern County,20.0
+Yolo County,Kings County,10.0
+Yolo County,Los Angeles County,77.0
+Yolo County,Marin County,189.0
+Yolo County,Mendocino County,7.0
+Yolo County,Merced County,12.0
+Yolo County,Monterey County,55.0
+Yolo County,Napa County,325.0
+Yolo County,Nevada County,17.0
+Yolo County,Orange County,22.0
+Yolo County,Placer County,1214.0
+Yolo County,Riverside County,19.0
+Yolo County,Sacramento County,23221.0
+Yolo County,San Bernardino County,34.0
+Yolo County,San Diego County,12.0
+Yolo County,San Francisco County,764.0
+Yolo County,San Joaquin County,322.0
+Yolo County,San Mateo County,168.0
+Yolo County,Santa Barbara County,24.0
+Yolo County,Santa Clara County,147.0
+Yolo County,Santa Cruz County,9.0
+Yolo County,Shasta County,63.0
+Yolo County,Solano County,5682.0
+Yolo County,Sonoma County,144.0
+Yolo County,Stanislaus County,35.0
+Yolo County,Sutter County,368.0
+Yolo County,Tehama County,18.0
+Yolo County,Yolo County,63144.0
+Yolo County,Yuba County,51.0
+Yuba County,Alameda County,187.0
+Yuba County,Butte County,493.0
+Yuba County,Colusa County,176.0
+Yuba County,Contra Costa County,49.0
+Yuba County,El Dorado County,13.0
+Yuba County,Los Angeles County,20.0
+Yuba County,Napa County,152.0
+Yuba County,Nevada County,619.0
+Yuba County,Placer County,3748.0
+Yuba County,Sacramento County,3009.0
+Yuba County,San Bernardino County,17.0
+Yuba County,San Francisco County,104.0
+Yuba County,San Mateo County,40.0
+Yuba County,Santa Clara County,59.0
+Yuba County,Shasta County,35.0
+Yuba County,Sierra County,6.0
+Yuba County,Solano County,193.0
+Yuba County,Sonoma County,30.0
+Yuba County,Sutter County,7217.0
+Yuba County,Yolo County,932.0
+Yuba County,Yuba County,13591.0
