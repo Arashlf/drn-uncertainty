@@ -1,6 +1,6 @@
 # drn-uncertainty
 
-Pipeline for the DRN (dynamic reproduction number) uncertainty analysis.
+Pipeline for the DRN (distributed reproduction numbers) uncertainty analysis.
 
 ## Setup
 
